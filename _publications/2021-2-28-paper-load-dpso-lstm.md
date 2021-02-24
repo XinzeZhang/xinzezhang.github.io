@@ -1,7 +1,7 @@
 ---
 title: "Short-term Load Forecasting of Central China based on DPSO-LSTM"
 collection: publications
-permalink: /publication/2021-2-28-paper-load-dpso-lstm
+# permalink: /publication/2021-2-28-paper-load-dpso-lstm
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
 venue: '2021 IEEE 4th International Electrical and Energy Conference（CIEEC 2021）'
