@@ -65,16 +65,16 @@ scp -P port -r ~/.zshrc ubuntu:~/
 
 ### tmux
 
-scp the plugins to the server from the server machine
+scp the plugins to the server from the local machine
 
 ```zsh
-scp -r xinze@192.168.0.10:~/.tmux/ ~/
+scp -r ~/.tmux/ ubuntu:~/
 ```
 
 create the tmux config file
 
 ```zsh
-touch .tmux.conf
+nano .tmux.conf
 ```
 
 copy and paste
