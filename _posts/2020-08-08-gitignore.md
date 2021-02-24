@@ -1,16 +1,14 @@
 ---
-layout:     post
+
 title:      Remove the committed files in the gitignore
-subtitle:   
-author:     Xinze
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+
+
 tags:
     -git
 ---
 
 
-```
+```bash
 # Remove everything from the git cache (the files will stay in the file system).
 $ git rm -r --cached .
 

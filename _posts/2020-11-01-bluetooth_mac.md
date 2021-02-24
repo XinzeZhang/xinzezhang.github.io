@@ -8,7 +8,8 @@ tags:
 ## Reset the Bluetooth cache
 
 Firstly, close the bluetooth of the Mac.
-```
+
+```zsh
 sudo mv /Library/Preferences/com.apple.Bluetooth.plist /Library/Preferences/com.apple.Bluetooth.plist.bak
 sudo sudo rm ~/Library/Preferences/ByHost/com.apple.Bluetooth.*.plist
 ```

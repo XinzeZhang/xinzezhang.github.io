@@ -1,10 +1,8 @@
 ---
-layout:     post
+
 title:      Config zsh and tmux on new device
-subtitle:   
-author:     Xinze
-header-img: img/post-bg-coffee.jpeg
-catalog: true
+
+
 tags:
     -linux
     -zsh
@@ -13,62 +11,75 @@ tags:
 ---
 
 ### new sudo account
+
 Use the `adduser` command to add a new user to your system.
-```
+
+```bash
 sudo adduser username
 ```
+
 Set and confirm the new user’s password at the prompt. And use the `usermod` command to add the user to the sudo group.
-```
+
+```bash
 sudo usermod -aG sudo username
 ```
 
-
 ### zsh
+
 install zsh, autojump and git on server
-```
+
+```zsh
 sudo apt install zsh autojump git
 ```
 
 scp install to the server from local
-```
+
+```zsh
 scp ~/.oh-my-zsh/tools/install.sh ubuntu:~/
 ```
 
 setup zsh on server
-```
+
+```zsh
 sh install.sh
 ```
 
 transfer plugins to the server
-```
+
+```zsh
 scp -P port -r ~/.oh-my-zsh/custom/* ubuntu:~/.oh-my-zsh/custom/
 ```
 
 config zsh theme plugin on the server
-```
+
+```zsh
 rm $ZSH_CUSTOM/themes/spaceship.zsh-theme
 ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
 ```
 
 copy the linux zsh configuration to the server
-```
+
+```zsh
 scp -P port -r ~/.zshrc ubuntu:~/
 ```
+
 ### tmux
 
-
 scp the plugins to the server from the server machine
-```
+
+```zsh
 scp -r xinze@192.168.0.10:~/.tmux/ ~/
 ```
 
 create the tmux config file
-```
+
+```zsh
 touch .tmux.conf
 ```
 
 copy and paste
-```
+
+```zsh
 # Mouse mode
 set -g mouse on
 
@@ -93,7 +104,8 @@ run -b '~/.tmux/plugins/tpm/tpm'
 ### cuda
 
 #### cuda 10.1
-```
+
+```zsh
 sudo apt-get install gcc-7 g++-7
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 9
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-9 1
@@ -115,9 +127,11 @@ sudo chmod 755 /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
 ### KVM on ubuntu 20.04 LTS
 
 #### initial
-```
+
+```zsh
 sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virtinst virt-manager
 ```
+
 - `qemu-kvm` - software that provides hardware emulation for the KVM hypervisor.
 - `libvirt-daemon-system` - configuration files to run the libvirt daemon as a system service.
 - `libvirt-clients` - software for managing virtualization platforms.
@@ -126,11 +140,14 @@ sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils vir
 - `virt-manager` - an easy-to-use GUI interface and supporting command-line utilities for managing virtual machines through libvirt.
 
 Once the packages are installed, the libvirt daemon will start automatically. You can verify it by typing:
-```
+
+```zsh
 sudo systemctl is-active libvirtd
 ```
+
 To be able to create and manage virtual machines, you’ll need to add your user to the “libvirt” and “kvm” groups. To do that, enter:
-```
+
+```zsh
 sudo usermod -aG libvirt $USER
 sudo usermod -aG kvm $USER
 ```
@@ -138,12 +155,14 @@ sudo usermod -aG kvm $USER
 #### create a network bridge on the host
 
 first install the network bridge utilities package for debugging.
-```
+
+```zsh
 sudo apt-get install bridge-utils
 ```
 
 Next, we need to disable the default networking that KVM installed for itself. You can use `ip` to see what the default network looks like:
-```
+
+```zsh
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
 2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP mode DEFAULT group default qlen 1000
@@ -155,7 +174,8 @@ Next, we need to disable the default networking that KVM installed for itself. Y
 ```
 
 The entries `virbr0` and `virbr0-nic` are what KVM installs by default, which are need to be removed.
-```
+
+```zsh
 virsh net-destroy default
 virsh net-undefine default
 ```
@@ -166,7 +186,7 @@ Next, we will need to set up a bridge to use when we create a VM.
 
 Edit your `/etc/netplan/01-network-manager-all.yaml` (after making a back-up) to add a bridge. This is what mine looks like after editing:
 
-```
+```yaml
 network:
   version: 2
   renderer: NetworkManager
@@ -192,7 +212,8 @@ network:
 ```
 
 Now run `sudo netplan apply` to apply your new configuration. You can use the `ifconfig` command to inspect that it looks corrent:
-```
+
+```zsh
 br0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.0.11  netmask 255.255.255.0  broadcast 192.168.0.255
         inet6 fe80::82ea:7ff:fe87:1950  prefixlen 64  scopeid 0x20<link>
@@ -230,15 +251,18 @@ vnet0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 #### disk pass through
 
 get the disk id by :
-```
+
+```zsh
 ls -l /dev/disk/by-id/
 ```
 
 then just fill the disk device address in virt-manager, like:
-```
+
+```zsh
 /dev/disk/by-id/ata-ST4000VX007-2DT166_ZGY7CTQ9
 /dev/disk/by-id/ata-ST4000VX007-2DT166_ZGY7D8FZ
 ```
+
 when you add the storage and off you go.
 
 ### dsm
@@ -246,7 +270,8 @@ when you add the storage and off you go.
 #### moments cannot figure out and recognize the person and themes
 
 first stop the moments service
-```
+
+```zsh
 ssh xinze@dsm
 sudo -i
 mv /var/packages/SynologyMoments/target/usr/lib/libsynophoto-plugin-detection.so /var/packages/SynologyMoments/target/usr/lib/libsynophoto-plugin-detection.so.bak
