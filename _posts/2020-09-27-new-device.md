@@ -52,10 +52,10 @@ scp -P port -r ~/.oh-my-zsh/custom/* ubuntu:~/.oh-my-zsh/custom/
 
 config zsh theme plugin on the server
 
-```zsh
+<code>
 rm $ZSH_CUSTOM/themes/spaceship.zsh-theme
 ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
-```
+</code>
 
 copy the linux zsh configuration to the server
 
