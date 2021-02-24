@@ -1,7 +1,7 @@
 ---
 title: 'Instruction for editing this profile'
 date: 2021-02-24
-permalink: /posts/2021/02/instruction/
+# permalink: /posts/2021/02/instruction/
 tags:
   - Web
 ---
