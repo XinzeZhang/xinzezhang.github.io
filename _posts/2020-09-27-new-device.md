@@ -27,7 +27,7 @@ sudo apt install zsh autojump git
 
 scp install to the server from local
 ```
-scp ~/.oh-my-zsh/tools/install.sh ubuntu:~/
+scp ~/.oh-my-zsh/tools/install.sh pop:~/
 ```
 
 setup zsh on server
@@ -37,7 +37,7 @@ sh install.sh
 
 transfer plugins to the server
 ```
-scp -P port -r ~/.oh-my-zsh/custom/* ubuntu:~/.oh-my-zsh/custom/
+scp -P 22 -r ~/.oh-my-zsh/custom/* pop:~/.oh-my-zsh/custom/
 ```
 
 config zsh theme plugin on the server
@@ -48,14 +48,14 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
 
 copy the linux zsh configuration to the server
 ```
-scp -P port -r ~/.zshrc ubuntu:~/
+scp -P 22 -r ~/.zshrc pop:~/
 ```
 ### tmux
 
 
 scp the plugins to the server from the server machine
 ```
-scp -r xinze@192.168.0.10:~/.tmux/ ~/
+scp -r ~/.tmux/ pop:~/
 ```
 
 create the tmux config file

@@ -42,7 +42,7 @@ first install the network bridge utilities package for debugging.
 sudo apt-get install bridge-utils
 ```
 
-Next, we need to disable the default networking that KVM installed for itself. You can use `ip` to see what the default network looks like:
+Next, we need to disable the default networking that KVM installed for itself. You can use `ip a` to see what the default network looks like:
 
 ```
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000
@@ -58,8 +58,8 @@ Next, we need to disable the default networking that KVM installed for itself. Y
 The entries `virbr0` and `virbr0-nic` are what KVM installs by default, which are need to be removed.
 
 ```
-virsh net-destroy default
-virsh net-undefine default
+sudo virsh net-destroy default
+sudo virsh net-undefine default
 ```
 
 Now you can run `ip` again and the `virbr0` and `virbr0-nic` should be gone.
@@ -74,14 +74,14 @@ network:
   renderer: NetworkManager
 
   ethernets:
-    enp4s0:
+    enp39s0:
       dhcp4: false
       dhcp6: false
 
   bridges:
     br0:
-      interfaces: [enp4s0]
-      addresses: [192.168.0.11/24]
+      interfaces: [enp39s0]
+      addresses: [192.168.0.123/24]
       gateway4: 192.168.0.1
       mtu: 1500
       nameservers:
