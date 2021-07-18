@@ -40,11 +40,13 @@ He received a B.A. degree in accounting in 2015 from Zhongnan University of Econ
     Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He.
 
     In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021.
+
 - **Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks.**
 
     Xinze Zhang, Kun He, and Yukun Bao.
 
     *Neurocomputing*, 2021. Volume 459, Pages 234-248.
+
 - **Short-term load forecasting of central china based on DPSO-LSTM**
 
     Jianhua Yang, Xinze Zhang, and Yukun Bao.
