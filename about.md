@@ -52,3 +52,9 @@ He received a B.A. degree in accounting in 2015 from Zhongnan University of Econ
     Jianhua Yang, Xinze Zhang, and Yukun Bao.
 
     In *Proceedings of IEEE 4th International Electrical and Energy Conference (IEEC)*, 2021.
+
+- **Expert Recognition of Online Negative Word-of-Mouth Processing Based on Support Vector Machine**
+
+    Xinze Zhang, Shuqin Cai, and Siyu Luo.
+
+    *Statistics and Decision (Chinese journal)*, 2017. Volume 490, Pages 80-83.
