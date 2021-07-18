@@ -51,4 +51,4 @@ He received a B.A. degree in accounting in 2015 from Zhongnan University of Econ
 
     Jianhua Yang, Xinze Zhang, and Yukun Bao.
 
-    *IEEE 4th International Electrical and Energy Conference (IEEC)*, 2021.
+    In *Proceedings of IEEE 4th International Electrical and Energy Conference (IEEC)*, 2021.
