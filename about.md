@@ -35,6 +35,18 @@ He received a B.A. degree in accounting in 2015 from Zhongnan University of Econ
 
 ## Publications
 
-- Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He. "Crafting Adversarial Examples for Neural Machine Translation", The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics, 2021.
-- Xinze Zhang, Kun He, and Yukun Bao. "Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks." Neurocomputing, Volume 459, 2021, Pages 234-248.
-- Jianhua Yang, Xinze Zhang, and Yukun Bao. "Short-term load forecasting of central china based on DPSO-LSTM." IEEE 4th International Electrical and Energy Conference, 2021.
+- **Crafting Adversarial Examples for Neural Machine Translation**
+
+    Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He.
+
+    In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021.
+- **Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks.**
+
+    Xinze Zhang, Kun He, and Yukun Bao.
+
+    *Neurocomputing*, 2021. Volume 459, Pages 234-248.
+- **Short-term load forecasting of central china based on DPSO-LSTM**
+
+    Jianhua Yang, Xinze Zhang, and Yukun Bao.
+
+    *IEEE 4th International Electrical and Energy Conference (IEEC)*, 2021.
