@@ -33,12 +33,12 @@ total 4.0K
 Third: create the script to control the gpu clock and the fan speed. And the context can be as follows:
 
 ```bash
-sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings -a '[gpu:0]/GPUFanControlState=1' -a '[fan:0]/GPUTargetFanSpeed=80'
+sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings -a '[gpu:0]/GPUFanControlState=1' -a '[fan:0]/GPUTargetFanSpeed=85'
 sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings -a '[gpu:1]/GPUFanControlState=1' -a '[fan:1]/GPUTargetFanSpeed=85'
 
 
-sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority  nvidia-settings -a '[gpu:[3]=-400' -a '[gpu:0]/GPUMemoryTransferRateOffset[3]=3200'
-sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings -a '[gpu:1]/GPUGraphicsClockOffset[3]=-400' -a '[gpu:1]/GPUMemoryTransferRateOffset[3]=3200'
+sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings -a '[gpu:0]/GPUGraphicsClockOffset[4]=-400' -a '[gpu:0]/GPUMemoryTransferRateOffset[4]=3200'
+sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings -a '[gpu:1]/GPUGraphicsClockOffset[4]=-400' -a '[gpu:1]/GPUMemoryTransferRateOffset[4]=3200'
 ```
 
 Fourth: execute the script.
