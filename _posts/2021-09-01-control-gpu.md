@@ -69,23 +69,23 @@ total 4.0K
 -rwx------ 1 gdm gdm 108 Sep  7 20:48 Xauthority*
 ```
 
-Third: create the script to control the gpu clock and the fan speed. And the context can be as follows:
+Third: create the script `oc.sh` to control the gpu clock and the fan speed. And the context can be as follows:
 
 ```bash
-sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings \
--a '[gpu:0]/GPUGraphicsClockOffset[4]=-400' \
--a '[gpu:0]/GPUMemoryTransferRateOffset[4]=3200' \
--a '[gpu:0]/GPUFanControlState=1' \
--a '[fan:0]/GPUTargetFanSpeed=85' 
-
-sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings \
--a '[gpu:1]/GPUGraphicsClockOffset[4]=-400' \
--a '[gpu:1]/GPUMemoryTransferRateOffset[4]=3200' \
--a '[gpu:1]/GPUFanControlState=1' \
--a '[fan:1]/GPUTargetFanSpeed=85' 
+for i in "$@"; do
+    sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings \
+    -a "[gpu:$i]/GPUGraphicsClockOffset[4]=-400" \
+    -a "[gpu:$i]/GPUMemoryTransferRateOffset[4]=3200" \
+    -a "[gpu:$i]/GPUFanControlState=1" \
+    -a "[fan:$i]/GPUTargetFanSpeed=85" 
+done
 ```
 
 Fourth: execute the script.
+
+```bash
+$ sh oc.sh 0 1 2
+```
 
 BTW: to revert the fan setting, execute the  command in the following manner
 
