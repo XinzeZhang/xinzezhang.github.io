@@ -27,11 +27,11 @@ key: page-about
 ---
 ## Biography
 
-I am currently a Ph.D. candidate in the School of Management, Huazhong University of Science and Technology (HUST), China. I am is also affiliated with John Hopcroft Lab, School of Computer Science and Technology, HUST.
+I am currently a Ph.D. student in School of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm), School of Computer Science and Technology, HUST.
 
-My research interests lie primarily in machine learning, especially for natural language processing, and time series forecasting. Most recently, I focus on the adversarial generation for neural machine translation (NMT), randomness in deep neural network (DNN), and DNN based time series forecasting models.
+My research interests lie primarily in machine learning, especially for natural language processing, and time series forecasting. Most recently, I focus on the adversarial attack for neural machine translation (NMT), randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
-I received a B.Ac. degree in 2015 from Zhongnan University of Economics and Law, China. I received M.P.Ac. degree in 2018 from HUST.
+I received a B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://www.zuel.edu.cn/), China. I received M.P.Ac. degree in 2018 from HUST.
 
 ## Publications
 
