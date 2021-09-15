@@ -25,7 +25,17 @@ titles:
   # @end locale config
 key: page-about
 ---
-## Biography
+
+<div class="grid-containre">
+<div class="grid grid--p-2">
+<div class="cell cell--12 cell--md-4 " markdown="1">
+![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
+</div>
+<div class="cell cell--12 cell--md-auto" markdown="1">
+    ![Image](path-to-image){:.rounded}
+</div>
+</div>
+</div>
 
 I am currently a Ph.D. student in School of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm), School of Computer Science and Technology, HUST.
 
