@@ -28,7 +28,7 @@ key: page-about
 
 <div class="grid-containre">
 <div class="grid grid--p-2">
-<div class="cell cell--12 cell--md-4 " markdown="1">
+<div class="cell cell--12 cell--md-3 " markdown="1">
 ![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/profile.png "Image_rounded"){:.rounded}
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
