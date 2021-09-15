@@ -26,7 +26,27 @@ titles:
 key: page-about
 ---
 
-<div class="grid-containre">
+
+<div class="item">
+  <div class="item__image">
+    <img class="image" src="https://github.com/XinzeZhang/xinzezhang.github.io/blob/master/profile.png"/>
+  </div>
+  <div class="item__content">
+    <!-- <div class="item__header">
+      <h4>Photograph</h4>
+    </div> -->
+    <div class="item__description">
+      <p>
+        I am currently a Ph.D. student in School of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm), School of Computer Science and Technology, HUST.
+      </p>
+      <p>
+      My research interests lie primarily in machine learning, especially for natural language processing, and time series forecasting. Most recently, I focus on the adversarial attack for neural machine translation (NMT), randomness in deep neural network (DNN), and DNN based time series forecasting models.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="grid-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-4 " markdown="1">
 ![Image](https://github.com/XinzeZhang/xinzezhang.github.io/blob/master/profile.png "Image_rounded"){:.rounded}
@@ -39,7 +59,7 @@ My research interests lie primarily in machine learning, especially for natural 
 I received a B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://www.zuel.edu.cn/), China. I received M.P.Ac. degree in 2018 from HUST.
 </div>
 </div>
-</div>
+</div> -->
 
 ## Publications
 
