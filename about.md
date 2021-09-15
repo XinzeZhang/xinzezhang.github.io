@@ -36,7 +36,7 @@ I am a Ph.D. student at [Huazhong University of Science and Technology (HUST)](h
 
 My research interests lie primarily in machine learning, especially for natural language processing, and time series forecasting. Most recently, I focus on the adversarial attack for neural machine translation (NMT), randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
-I received a B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://www.zuel.edu.cn/), China. I received M.P.Ac. degree in 2018 from HUST.
+I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://www.zuel.edu.cn/), China, and received my M.P.Ac. degree in 2018 from HUST.
 </div>
 </div>
 </div>
