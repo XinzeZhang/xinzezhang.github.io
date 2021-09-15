@@ -32,7 +32,7 @@ key: page-about
 ![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/profile.png "Image_rounded"){:.rounded}
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
-I am currently a Ph.D. student in School of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm), School of Computer Science and Technology, HUST.
+I am a Ph.D. student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) school of Management, China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) at HUST school of Computer Science and Technology.
 
 My research interests lie primarily in machine learning, especially for natural language processing, and time series forecasting. Most recently, I focus on the adversarial attack for neural machine translation (NMT), randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
