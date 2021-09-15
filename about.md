@@ -32,7 +32,7 @@ key: page-about
 ![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/profile.png "Image_rounded"){:.rounded}
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
-I am a Ph.D. student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) school of Management, China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) at HUST school of Computer Science and Technology.
+I am a Ph.D. student at school of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) at HUST school of Computer Science and Technology.
 
 My research interests lie primarily in machine learning, especially for natural language processing, and time series forecasting. Most recently, I focus on the adversarial attack for neural machine translation (NMT), randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
@@ -59,7 +59,7 @@ I received a B.Ac. degree in 2015 from [Zhongnan University of Economics and Law
 
     Jianhua Yang, Xinze Zhang, and Yukun Bao.
 
-    In *Proceedings of IEEE 4th International Electrical and Energy Conference (IEEC)*, 2021.
+    In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021.
 
 - **Expert Recognition of Online Negative Word-of-Mouth Processing Based on Support Vector Machine**
 
