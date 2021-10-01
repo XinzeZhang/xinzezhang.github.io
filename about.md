@@ -31,7 +31,7 @@ key: page-about
 <div class="cell cell--12 cell--md-3 " markdown="1">
 ![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/profile.png "Image_rounded"){:.rounded}
 </div>
-<div class="cell cell--12 cell--md-auto" markdown="1">
+<div class="cell cell--12 cell--md-auto" style="text-align: justify" markdown="1">
 I am a Ph.D. student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) school of Management, China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) at HUST school of Computer Science and Technology.
 
 My research interests lie primarily in machine learning, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), and [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting). Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models.
