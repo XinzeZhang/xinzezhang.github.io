@@ -44,7 +44,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 ## Publications
 
-- **Crafting Adversarial Examples for Neural Machine Translation**
+- **Crafting adversarial examples for neural machine translation**
 
     Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He.
 
@@ -62,7 +62,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021.
 
-- **Expert Recognition of Online Negative Word-of-Mouth Processing Based on Support Vector Machine**
+- **Expert recognition of online negative word-of-mouth processing based on support vector machine**
 
     Xinze Zhang, Shuqin Cai, and Siyu Luo.
 
