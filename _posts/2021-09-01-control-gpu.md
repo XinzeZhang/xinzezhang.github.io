@@ -92,3 +92,9 @@ BTW: to revert the fan setting, execute the  command in the following manner
 ```bash
 $ sudo DISPLAY=:0 XAUTHORITY=/run/user/110/gdm/Xauthority nvidia-settings -a '[gpu:0]/GPUFanControlState=0'
 ```
+
+Sometimes, you need to restart gdm service to execute the above mentioned commands.
+
+```bash
+sudo systemctl restart gdm
+```
