@@ -70,7 +70,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 ## Honors 
 
-<div class="grid-container">
+<div class="grid-container my-5">
 
 <div class="grid grid--px-1">
 
@@ -87,7 +87,6 @@ Huazhong University of Science & Technology
 <div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" markdown="1">
 Wuhan, China
 </div>
-
 <div class="cell cell--12 cell--md-1 " markdown="1">
 </div>
 <div class="cell cell--12 cell--md-4" style="text-align: justify" markdown="1">
