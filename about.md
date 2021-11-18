@@ -66,4 +66,4 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     Xinze Zhang, Shuqin Cai, and Siyu Luo.
 
-    *Statistics and Decision (Chinese journal)*, 2017. Volume 490, Pages 80-83.
+    *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
