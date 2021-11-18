@@ -82,7 +82,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -94,7 +94,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -107,7 +107,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -120,7 +120,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -133,7 +133,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -146,7 +146,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 National College Wushu Championship
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Lanzhou, China
 </div>
 
@@ -160,7 +160,7 @@ Lanzhou, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 National College Wushu Championship
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Lanzhou, China
 </div>
 
@@ -173,7 +173,7 @@ Lanzhou, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 National College Wushu Championship
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Lanzhou, China
 </div>
 
@@ -186,7 +186,7 @@ Lanzhou, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Hubei College Wushu Championship
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -199,7 +199,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Hubei College Wushu Championship
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -212,7 +212,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Zhongnan University of Economics & Law
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -224,7 +224,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Hubei College Wushu Championship
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
@@ -237,7 +237,7 @@ Wuhan, China
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Zhongnan University of Economics & Law
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
 
