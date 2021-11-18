@@ -28,10 +28,10 @@ key: page-about
 
 <div class="grid-container">
 <div class="grid grid--p-2">
-<div class="cell cell--12 cell--md-3 " markdown="1">
+<div class="cell cell--12 cell--md-3 " >
 ![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/profile.png "Image_rounded"){:.rounded}
 </div>
-<div class="cell cell--12 cell--md-auto" style="text-align: justify" markdown="1">
+<div class="cell cell--12 cell--md-auto" style="text-align: justify" >
 
 I am a Ph.D. student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) school of Management, China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) at HUST school of Computer Science and Technology.
 
@@ -72,40 +72,40 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 <div class="grid-container my-5">
 <div class="grid grid--px-1">
-<div class="cell cell--12 cell--md-1 " markdown="1">
+<div class="cell cell--12 cell--md-1 " >
 2021
 </div>
 <div class="cell cell--12 cell--md-4" style="text-align: justify">
 <b>National Scholarship</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" markdown="1">
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" markdown="1">
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
 Wuhan, China
 </div>
-<div class="cell cell--12 cell--md-1 " markdown="1">
+<div class="cell cell--12 cell--md-1 " >
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" markdown="1">
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
 
 **Theory & Practice Scholarship**
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" markdown="1">
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" markdown="1">
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
 Wuhan, China
 </div>
-<div class="cell cell--12 cell--md-1 " markdown="1">
+<div class="cell cell--12 cell--md-1 " >
 2017
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" markdown="1">
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
 <b>National Scholarship</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" markdown="1">
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
 </div>
-<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" markdown="1">
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
 Wuhan, China
 </div>
 </div>
