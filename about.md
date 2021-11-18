@@ -76,7 +76,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 <div class="cell cell--12 cell--md-1 " markdown="1">
 2021
 </div>
-<div class="cell cell--12 cell--3" style="text-align: justify" markdown="1">
+<div class="cell cell--12 cell--md-3" style="text-align: justify" markdown="1">
 National Scholarship
 </div>
 <div class="cell cell--12 cell--md-auto" style="text-align: justify" markdown="1">
