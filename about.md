@@ -71,15 +71,12 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 ## Honors 
 
 <div class="grid-container my-5">
-
 <div class="grid grid--px-1">
-
 <div class="cell cell--12 cell--md-1 " markdown="1">
 2021
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" markdown="1">
-
-**National Scholarship**
+<div class="cell cell--12 cell--md-4" style="text-align: justify">
+<b>National Scholarship</b>
 </div>
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" markdown="1">
 Huazhong University of Science & Technology
@@ -99,6 +96,17 @@ Huazhong University of Science & Technology
 <div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" markdown="1">
 Wuhan, China
 </div>
-
+<div class="cell cell--12 cell--md-1 " markdown="1">
+2017
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" markdown="1">
+<b>National Scholarship</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" markdown="1">
+Huazhong University of Science & Technology
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" markdown="1">
+Wuhan, China
+</div>
 </div>
 </div>
