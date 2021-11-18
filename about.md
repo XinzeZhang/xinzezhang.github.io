@@ -72,6 +72,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 <div class="grid-container my-5">
 <div class="grid grid--px-1">
+
 <div class="cell cell--12 cell--md-1 " >
 2021
 </div>
@@ -84,11 +85,11 @@ Huazhong University of Science & Technology
 <div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
 Wuhan, China
 </div>
+
 <div class="cell cell--12 cell--md-1 " >
 </div>
 <div class="cell cell--12 cell--md-4" style="text-align: justify" >
-
-**Theory & Practice Scholarship**
+<b>Theory & Practice Scholarship</b>
 </div>
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
 Huazhong University of Science & Technology
@@ -96,6 +97,7 @@ Huazhong University of Science & Technology
 <div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
 Wuhan, China
 </div>
+
 <div class="cell cell--12 cell--md-1 " >
 2017
 </div>
@@ -108,5 +110,138 @@ Huazhong University of Science & Technology
 <div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
 Wuhan, China
 </div>
+
+<div class="cell cell--12 cell--md-1 " >
+
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>Theory & Practice Scholarship</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+Huazhong University of Science & Technology
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Wuhan, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+2016
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>Outstanding Graduate </b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+Huazhong University of Science & Technology
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Wuhan, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>Outstanding Athlete </b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+National College Wushu Championship
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Lanzhou, China
+</div>
+
+
+<div class="cell cell--12 cell--md-1 " >
+
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>4th Place (Nan Gun)</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+National College Wushu Championship
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Lanzhou, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>6th Place (Nan Quan)</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+National College Wushu Championship
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Lanzhou, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>1th Place (Nan Quan)</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+Hubei College Wushu Championship
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Wuhan, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+2015
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>3th Place (Nan Quan)</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+Hubei College Wushu Championship
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Wuhan, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+2014
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>People's Scholarship</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+Zhongnan University of Economics & Law
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Wuhan, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>6th Place (Nan Quan)</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+Hubei College Wushu Championship
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Wuhan, China
+</div>
+
+<div class="cell cell--12 cell--md-1 " >
+2013
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<b>People's Scholarship</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+Zhongnan University of Economics & Law
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: justify;color:#DC3522" >
+Wuhan, China
+</div>
+
+
+
 </div>
 </div>
