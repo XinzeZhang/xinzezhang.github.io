@@ -75,9 +75,9 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant, 
-<div style="color:#5D5D5D">
+<font color="#5D5D5D">
 with Prof. Yukun Bao, School of Management, HUST
-</div>
+</font>
 </div>
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Mar. 2019 - Jun. 2020
