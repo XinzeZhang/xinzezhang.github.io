@@ -42,6 +42,10 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 </div>
 </div>
 
+### Contact Info
+    - E-mail: xinze@hust.edu.cn
+    - Wechat: xinze-zh
+
 ## Publications
 
 - **Crafting adversarial examples for neural machine translation**
@@ -114,7 +118,7 @@ Sep. 2016 - Jan. 2017
 </div>
 <div class="cell cell--12 cell--md-1 " ></div>
 <div class="cell cell--12 cell--md-11" style="text-align: left" >
-<i><b>Developing Information System: Methods & Tools of  (C#)</b></i>
+<i><b>Developing Information System: Methods & Tools (C#)</b></i>
 </div>
 
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
