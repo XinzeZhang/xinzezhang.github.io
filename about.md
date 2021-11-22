@@ -128,7 +128,7 @@ Sep. 2015 - Jan. 2016
 </div>
 <div class="cell cell--12 cell--md-1 " ></div>
 <div class="cell cell--12 cell--md-11" style="text-align: left" >
-<i><b>Data Structure (C/C++), Database Technology & Application</b></i>
+<i><b>Data Structure (C/C++), Database Technology & Application (SQL Server)</b></i>
 </div>
 
 </div>
