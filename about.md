@@ -43,8 +43,8 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 </div>
 
 ### Contact Info
-    - E-mail: xinze@hust.edu.cn
-    - Wechat: xinze-zh
+- E-mail: xinze@hust.edu.cn
+- Wechat: xinze-zh
 
 ## Publications
 
