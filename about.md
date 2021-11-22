@@ -73,54 +73,50 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 <div class="grid grid--px-1">
 
-<div class="cell cell--12 cell--md-10 " style="text-align: left" >
+<div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant, with Prof. Yukun Bao, School of Management, HUST
 </div>
-<div class="cell cell--12 cell--md-2 "  style="text-align: right;color:#DC3522">
+<div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Mar. 2019 - Jun. 2020
 </div>
 <div class="cell cell--12 cell--md-1" >
 </div>
 <div class="cell cell--12 cell--md-11" style="text-align: left" >
-Undergraduate Course: 
-<i>Business Intelligence & Data Mining</i>
+<i><b>Business Intelligence & Data Mining</b></i>
 </div>
 
-<div class="cell cell--12 cell--md-10 " style="text-align: left" >
+<div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant, with Prof. Shuqin Cai, School of Management, HUST
 </div>
-<div class="cell cell--12 cell--md-2 "  style="text-align: right;color:#DC3522">
+<div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Mar. 2016 - Sep. 2017
 </div>
 <div class="cell cell--12 cell--md-1" >
 </div>
 <div class="cell cell--12 cell--md-11" style="text-align: left" >
-Undergraduate Course: 
-<i>The Analysis & Design of Management Information System </i>
+<i><b>The Analysis & Design of Management Information System</b></i>
 </div>
 
-<div class="cell cell--12 cell--md-10 " style="text-align: left" >
+<div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant, with Assoc. Prof. Shuangyuan Shi, School of Management, HUST
 </div>
-<div class="cell cell--12 cell--md-2 "  style="text-align: right;color:#DC3522">
+<div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Sep. 2016 - Jan. 2017
 </div>
 <div class="cell cell--12 cell--md-1 " ></div>
 <div class="cell cell--12 cell--md-11" style="text-align: left" >
-Undergraduate Course: 
-<i>Developing Information System: Methods & Tools of  (C#)</i>
+<i><b>Developing Information System: Methods & Tools of  (C#)</b></i>
 </div>
 
-<div class="cell cell--12 cell--md-10 " style="text-align: left" >
+<div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant, with Prof. Qianfan Zhang, School of Management, HUST
 </div>
-<div class="cell cell--12 cell--md-2 "  style="text-align: right;color:#DC3522">
+<div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Sep. 2015 - Jan. 2016
 </div>
 <div class="cell cell--12 cell--md-1 " ></div>
 <div class="cell cell--12 cell--md-11" style="text-align: left" >
-Undergraduate Course:
-<i>Data Structure (C/C++), Database Technology & Application</i>
+<i><b>Data Structure (C/C++), Database Technology & Application</b></i>
 </div>
 
 </div>
