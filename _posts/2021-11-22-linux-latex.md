@@ -1,11 +1,11 @@
 ---
-title:      Config texlive 2020 on Ubuntu
+title:      Config texlive on Ubuntu
 tags:
     -linux
     -tex
 ---
 
-### TexLive 2020 on ubuntu 20.04 LTS
+### TexLive 2021 on ubuntu 20.04 LTS
 
 #### Install iso
 
@@ -13,7 +13,7 @@ To install TeX Live from the ISO file:
 
 ```bash
 sudo mkdir /media/iso
-sudo mount -o loop texlive2020.iso /media/iso/
+sudo mount -o loop texlive2021.iso /media/iso/
 cd /media/iso
 sudo ./install-tl
 ```
@@ -31,15 +31,40 @@ Installing [0065/3252, time/total: 00:11/09:47]: aleph [31k]
 ...
 ```
 
+After the installation, unmount the iso with:
+
+```bash
+sudo umount /media/iso
+```
+
+
 ### Config the env path
 
 Add the following paths in your bash (or zsh) profile file:
 
 ```bash
-PATH="/usr/local/texlive/2020/bin/x86_64-linux:$PATH"; export PATH
-MANPATH="/usr/local/texlive/2020/texmf-dist/doc/man:$MANPATH"; export MANPATH
-INFOPATH="/usr/local/texlive/2020/texmf-dist/doc/info:$INFOPATH"; export INFOPATH%
+PATH="/usr/local/texlive/2021/bin/x86_64-linux:$PATH"; export PATH
+MANPATH="/usr/local/texlive/2021/texmf-dist/doc/man:$MANPATH"; export MANPATH
+INFOPATH="/usr/local/texlive/2021/texmf-dist/doc/info:$INFOPATH"; export INFOPATH%
 ```
+
+
+### Config the font cache for xelatex and lualatex
+
+If you want to use the system font for xelatex and luatex for all users, copy the tex font config file to the system configs:
+
+```bash
+sudo cp /usr/local/texlive/2021/textmf-var/fonts/conf/texlive-fontconfig.conf /etc/fonts/conf.d/09-texlive.conf
+sudo fc-cache -fsv
+```
+
+Or, if your want to use the font for yourself, just add the font config to the home:
+
+```bash
+sudo cp /usr/local/texlive/2021/textmf-var/fonts/conf/texlive-fontconfig.conf ~/.fonts.conf
+fc-cache -fv
+```
+
 
 ### Update tlmgr
 
@@ -48,3 +73,4 @@ Update the packages from the CTAN mirros (you can choose the faster mirrors in  
 ```bash
 tlmgr option repository https://mirrors.aliyun.com/CTAN/systems/texlive/tlnet/
 ```
+
