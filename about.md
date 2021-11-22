@@ -88,11 +88,11 @@ Mar. 2019 - Jun. 2020
 <i><b>Business Intelligence & Data Mining</b></i>
 </div>
 
-<div class="cell cell--12 cell--md-9 " style="text-align: left" >
+<div class="cell cell--12 cell--md-9 " style="text-align: left;display: inline-block;"  >
 Teaching Assistant,
-<div style="color:#5D5D5D">
+<font color="#5D5D5D">
 with Prof. Shuqin Cai, School of Management, HUST
-</div>
+</font>
 </div>
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Mar. 2016 - Sep. 2017
@@ -105,9 +105,9 @@ Mar. 2016 - Sep. 2017
 
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant,
-<div style="color:#5D5D5D">
+<font color="#5D5D5D">
 with Assoc. Prof. Shuangyuan Shi, School of Management, HUST
-</div>
+</font>
 </div>
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Sep. 2016 - Jan. 2017
@@ -119,9 +119,9 @@ Sep. 2016 - Jan. 2017
 
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant,
-<div style="color:#5D5D5D">
+<font color="#5D5D5D">
 with Prof. Qianfan Zhang, School of Management, HUST
-</div>
+</font>
 </div>
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Sep. 2015 - Jan. 2016
