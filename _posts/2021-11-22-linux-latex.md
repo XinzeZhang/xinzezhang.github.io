@@ -37,7 +37,6 @@ After the installation, unmount the iso with:
 sudo umount /media/iso
 ```
 
-
 ### Config the env path
 
 Add the following paths in your bash (or zsh) profile file:
@@ -47,7 +46,6 @@ PATH="/usr/local/texlive/2021/bin/x86_64-linux:$PATH"; export PATH
 MANPATH="/usr/local/texlive/2021/texmf-dist/doc/man:$MANPATH"; export MANPATH
 INFOPATH="/usr/local/texlive/2021/texmf-dist/doc/info:$INFOPATH"; export INFOPATH%
 ```
-
 
 ### Config the font cache for xelatex and lualatex
 
@@ -65,6 +63,15 @@ sudo cp /usr/local/texlive/2021/textmf-var/fonts/conf/texlive-fontconfig.conf ~/
 fc-cache -fv
 ```
 
+### Config formatting in the VS Code
+
+Install the following modules:
+
+```bash
+sudo cpan YAML::Tiny
+sudo cpan File::HomeDir
+sudo cpan Unicode::GCString
+```
 
 ### Update tlmgr
 
@@ -73,4 +80,3 @@ Update the packages from the CTAN mirros (you can choose the faster mirrors in  
 ```bash
 tlmgr option repository https://mirrors.aliyun.com/CTAN/systems/texlive/tlnet/
 ```
-
