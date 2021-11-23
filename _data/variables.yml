@@ -4,7 +4,7 @@ default:
   lang: en
   paths:
     root: /
-    home: /about.html
+    home: /
     archive:  /archive.html
     rss:  /feed.xml
   mathjax: false
