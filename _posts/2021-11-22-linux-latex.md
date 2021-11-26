@@ -1,5 +1,5 @@
 ---
-title:      Config texlive on Ubuntu
+title:      Config tex live on Ubuntu
 tags:
     -linux
     -tex
