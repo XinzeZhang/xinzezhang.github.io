@@ -95,9 +95,9 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
     Xinze Zhang, Qi Sima, Siyue Yang and Yukun Bao.
 
 
-    ` $^\ast$: During anonymity period.`
+    `$\ast$: During anonymity period.`
 
-    ` $$^\star$$: Preprints are coming soon.`
+    `$\star$: Preprints are coming soon.`
 
 ## Teaching
 
