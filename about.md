@@ -74,30 +74,30 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
     *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
 
 ## Working Papers
-- **Crafting \*\*\*\* adversarial examples for neural machine translation** $$^\ast$$
+- **Crafting \*\*\*\* adversarial examples for neural machine translation**$$^\ast$$
 
     Xinze Zhang, Zhenhua Chen and Kun He.
 
-- **Adversarial defense for neural machine translation with \*\*\*\* word embeddings** $$^\ast$$
+- **Adversarial defense for neural machine translation with \*\*\*\* word embeddings**$$^\ast$$
 
     Xinze Zhang, Zhenhua Chen and Kun He.
 
-- **Incremental deep universal approximator for time series forecasting** $$^\star$$
+- **Incremental deep universal approximator for time series forecasting**$$^\star$$
 
     Xinze Zhang, Kun He, Qi Sima and Yukun Bao.
 
-- **Multi-stage input selection of deep neural networks for time series forecasting** $$^\star$$
+- **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
 
     Xinze Zhang, Qi Sima, Siyue Yang and Yukun Bao.
 
-- **Does decoder matter in recurrent modeling framework for time series prediction? Some experimental evidences** $$^\star$$
+- **Does decoder matter in recurrent modeling framework for time series prediction? Some experimental evidences**$$^\star$$
 
     Xinze Zhang, Qi Sima, Siyue Yang and Yukun Bao.
 
 
-    `∗: During anonymity period.`
+    `* During anonymity period.`
 
-    `★: Preprints are coming soon.`
+    `★ Preprints are coming soon.`
 
 ## Teaching
 
