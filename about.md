@@ -74,15 +74,15 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
     *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
 
 ## Working Papers
-- **Crafting \*\*\*\*  $$\ast\ast\ast\ast$$ adversarial examples for neural machine translation** [^$$\ast$$] 
+- **Crafting \*\*\*\* adversarial examples for neural machine translation**[^$$\ast$$] 
 
     Xinze Zhang, Zhenhua Chen and Kun He.
 
-- **Adversarial defense for neural machine translation with \*\*\*\* word embeddings**
+- **Adversarial defense for neural machine translation with \*\*\*\* word embeddings**[^$$\ast$$]
 
     Xinze Zhang, Zhenhua Chen and Kun He.
 
-- **Incremental deep universal approximator for time series forecasting**[^\$$\star$$]
+- **Incremental deep universal approximator for time series forecasting**[^$$\star$$]
 
     Xinze Zhang, Kun He, Qi Sima and Yukun Bao.
 
