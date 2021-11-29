@@ -54,7 +54,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 </div>
 
 </div> -->
-<h3 style="margin-top: auto;">Contact Info</h3>
+<h3 style="margin-top: auto;margin-bottom: -20px;">Contact Info</h3>
 <div class="grid grid--px-1">
   <div class="cell cell--shrink" style="text-align: left" markdown="1">
 
