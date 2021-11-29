@@ -82,6 +82,8 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     Xinze Zhang, Zhenhua Chen and Kun He.
 
+    `* Within the anonymity period.`
+
 - **Incremental deep universal approximator for time series forecasting**$$^\star$$
 
     Xinze Zhang, Kun He, Qi Sima and Yukun Bao.
@@ -93,8 +95,6 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 - **Does decoder matter in recurrent modeling framework for time series prediction? Some experimental evidences**$$^\star$$
 
     Xinze Zhang, Qi Sima, Siyue Yang and Yukun Bao.
-
-    `* Within the anonymity period.`
 
     `★ Preprints are coming soon.`
 
