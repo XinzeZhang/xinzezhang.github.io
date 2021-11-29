@@ -43,8 +43,6 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 </div>
 </div>
 
-### Contact Info
-
 <!-- <div class="grid grid--px-1">
 <div class="cell cell--12 cell--md-9 " style="text-align: left"  markdown="1" >
 
@@ -56,13 +54,14 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 </div>
 
 </div> -->
+<h3 style="margin-top: auto;">Contact Info</h4>
 
 <div class="grid grid--px-1">
-  <div class="cell cell--auto" markdown="1">
+  <div class="cell cell--8" style="text-align: left" markdown="1">
 
   - E-mail: `xinze@hust.edu.cn`, `xinze.zh@outlook.com`
   </div>
-  <div class="cell cell--3" markdown="1">
+  <div class="cell cell--4" style="text-align: left" markdown="1">
 
   - Wechat: `xinze-zh`
   </div>
