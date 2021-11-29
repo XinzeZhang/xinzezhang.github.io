@@ -43,19 +43,8 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 </div>
 </div>
 
-<!-- <div class="grid grid--px-1">
-<div class="cell cell--12 cell--md-9 " style="text-align: left"  markdown="1" >
-
-- E-mail: `xinze@hust.edu.cn`, `xinze.zh@outlook.com`
-</div>
-<div class="cell cell--12 cell--md-3" style="text-align: left"  markdown="1" >
-
-- E-mail: `xinze@hust.edu.cn`, `xinze.zh@outlook.com`
-</div>
-
-</div> -->
 <h3 style="margin-top: auto;margin-bottom: -10px;">Contact Info</h3>
-<div class="grid grid--px-1" style="margin-top: -10px;margin-bottom: -10px;">
+<div class="grid grid--px-1" style="margin-top: -10px;margin-bottom: -25px;">
   <div class="cell cell--shrink" style="text-align: left" markdown="1">
 
   - E-mail: `xinze@hust.edu.cn`, `xinze.zh@outlook.com`
@@ -93,11 +82,11 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
     *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
 
 ## Working Papers
-- **Crafting \*\*\*\* adversarial examples for neural machine translation**$$^\ast$$
+- **Crafting ${\*}{\*}{\*}{\*}$ adversarial examples for neural machine translation**$$^\ast$$
 
     Xinze Zhang, Zhenhua Chen and Kun He.
 
-- **Adversarial defense for neural machine translation with \*\*\*\* word embeddings**$$^\ast$$
+- **Adversarial defense for neural machine translation with ${\*}{\*}{\*}{\*}$ word embeddings**$$^\ast$$
 
     Xinze Zhang, Zhenhua Chen and Kun He.
 
