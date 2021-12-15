@@ -130,6 +130,27 @@ vnet0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 ```
 
+### Autostart vm guests
+
+Add the command to `/etc/rc.local` with:
+
+```bash
+sudo nano /etc/rc.local
+```
+
+This file will executes the command as root when boot-up.
+
+Note that, a shebang line that is `#!/bin/bash` should be checked at the top of the `rc.local`, if not exists, add it as the first line of the `rc.local`.
+
+Then, ensure the file is executable:
+
+```bash
+sudo chmod a+x /etc/rc.local
+```
+
+After that, add the comand `virsh start vmname` to the `rc.local`, where the `vmname` is the name of the vm guest.
+
+
 #### disk pass through
 
 get the disk id by :
