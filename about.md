@@ -63,7 +63,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021.
 
-- **Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks.**
+- **Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks**
 
     Xinze Zhang, Kun He, and Yukun Bao.
 
