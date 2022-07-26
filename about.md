@@ -34,7 +34,7 @@ mathjax: true
 </div>
 <div class="cell cell--12 cell--md-auto" style="text-align: justify"   markdown='1'>
 
-I am a Ph.D. student at [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) school of Management, China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) at HUST school of Computer Science and Technology.
+I am currently a Ph.D. student in the school of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) in the school of Computer Science and Technology, HUST.
 
 My research interests lie primarily in machine learning, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), and [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting). Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
@@ -59,7 +59,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 - **Crafting adversarial examples for neural machine translation**
 
-    Xinze Zhang, Junzhe Zhang, Zhenhua Chen and Kun He.
+    Xinze Zhang, Junzhe Zhang, Zhenhua Chen, and Kun He.
 
     In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021.
 
@@ -84,25 +84,25 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 ## Working Papers
 - **Crafting ${\*}{\*}{\*}$ adversarial examples for neural machine translation**$$^\ast$$
 
-    Xinze Zhang, Zhenhua Chen and Kun He.
+    Xinze Zhang, Zhenhua Chen, and Kun He.
 
 - **Adversarial defense for neural machine translation with ${\*}{\*}{\*}$ word embeddings**$$^\ast$$
 
-    Xinze Zhang, Zhenhua Chen and Kun He.
+    Xinze Zhang, Zhenhua Chen, and Kun He.
 
     `* Within the anonymity period.`
 
-- **Incremental deep universal approximator for time series forecasting**$$^\star$$
+- **Growing stochastic deep neural network for time series forecasting with error-feedback triple-phase optimization**$$^\star$$
 
-    Xinze Zhang, Kun He, Qi Sima and Yukun Bao.
+    Xinze Zhang, Kun He, Qi Sima, and Yukun Bao.
 
 - **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
 
     Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao.
 
-- **Does decoder matter in recurrent modeling framework for time series prediction? Some experimental evidences**$$^\star$$
+- **Exploring the input output architectures of echo state network for time series forecasting**$$^\star$$
 
-    Xinze Zhang, Qi Sima, Siyue Yang and Yukun Bao.
+    Xinze Zhang, Xinran He, and Yukun Bao.
 
     `★ Preprints are coming soon.`
 
