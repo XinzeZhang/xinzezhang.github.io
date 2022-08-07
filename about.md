@@ -96,13 +96,17 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     Xinze Zhang, Kun He, Qi Sima, and Yukun Bao.
 
-- **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
+- **Multi-step-ahead time series prediction with reinforced decoder**$$^\star$$
 
-    Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao.
+   Yukun Bao, Qi Sima, and Xinze Zhang.
 
 - **Exploring the input output architectures of echo state network for time series forecasting**$$^\star$$
 
     Xinze Zhang, Xinran He, and Yukun Bao.
+
+- **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
+
+    Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao.
 
     `★ Preprints are coming soon.`
 
