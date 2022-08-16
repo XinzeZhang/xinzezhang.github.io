@@ -49,7 +49,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
   - E-mail: `xinze@hust.edu.cn`, `xinze.zh@outlook.com`
   </div>
-  <div class="cell cell--auto" style="text-align: left" markdown="1">
+  <div class="cell cell--shrink" style="text-align: left" markdown="1">
 
   - Wechat: `xinze-zh`
   </div>
