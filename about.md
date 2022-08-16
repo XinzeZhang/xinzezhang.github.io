@@ -114,6 +114,10 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 <div class="grid grid--px-1">
 
+<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<b>Business Intelligence & Data Mining</b>
+</div>
+
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant, 
 <font color="#5D5D5D">
@@ -123,12 +127,10 @@ with Prof. Yukun Bao, School of Management, HUST
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Mar. 2019 - Jun. 2020
 </div>
-<div class="cell cell--12 cell--md-1" >
-</div>
-<div class="cell cell--12 cell--md-11" style="text-align: left" >
-<i><b>Business Intelligence & Data Mining</b></i>
-</div>
 
+<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<b>The Analysis & Design of Management Information System</b>
+</div>
 <div class="cell cell--12 cell--md-9 " style="text-align: left;display: inline-block;"  >
 Teaching Assistant,
 <font color="#5D5D5D">
@@ -138,12 +140,10 @@ with Prof. Shuqin Cai, School of Management, HUST
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Mar. 2016 - Sep. 2017
 </div>
-<div class="cell cell--12 cell--md-1" >
-</div>
-<div class="cell cell--12 cell--md-11" style="text-align: left" >
-<i><b>The Analysis & Design of Management Information System</b></i>
-</div>
 
+<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<b>Developing Information System: Methods & Tools (C#)</b>
+</div>
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant,
 <font color="#5D5D5D">
@@ -153,11 +153,10 @@ with Assoc. Prof. Shuangyuan Shi, School of Management, HUST
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Sep. 2016 - Jan. 2017
 </div>
-<div class="cell cell--12 cell--md-1 " ></div>
-<div class="cell cell--12 cell--md-11" style="text-align: left" >
-<i><b>Developing Information System: Methods & Tools (C#)</b></i>
-</div>
 
+<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<b>Data Structure (C/C++)</b>
+</div>
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
 Teaching Assistant,
 <font color="#5D5D5D">
@@ -167,9 +166,18 @@ with Prof. Qianfan Zhang, School of Management, HUST
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Sep. 2015 - Jan. 2016
 </div>
-<div class="cell cell--12 cell--md-1 " ></div>
-<div class="cell cell--12 cell--md-11" style="text-align: left" >
-<i><b>Data Structure (C/C++), Database Technology & Application (SQL Server)</b></i>
+
+<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<b>Database Technology & Application (SQL Server)</b>
+</div>
+<div class="cell cell--12 cell--md-9 " style="text-align: left" >
+Teaching Assistant,
+<font color="#5D5D5D">
+with Prof. Qianfan Zhang, School of Management, HUST
+</font>
+</div>
+<div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
+Sep. 2015 - Jan. 2016
 </div>
 
 </div>
@@ -178,6 +186,19 @@ Sep. 2015 - Jan. 2016
 
 <div class="grid-container">
 <div class="grid grid--px-1">
+
+<div class="cell cell--12 cell--md-1 " >
+2022
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify">
+<b>Second Prize Award</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+"China Software Cup" College Student Software Design Competition
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
+Nanjing, China
+</div>
 
 <div class="cell cell--12 cell--md-1 " >
 2021
