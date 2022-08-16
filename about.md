@@ -114,7 +114,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 <div class="grid grid--px-1">
 
-<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<div class="cell cell--12 cell--md-12" style="text-align: left" >
 <b>Business Intelligence & Data Mining</b>
 </div>
 
@@ -128,7 +128,7 @@ with Prof. Yukun Bao, School of Management, HUST
 Mar. 2019 - Jun. 2020
 </div>
 
-<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<div class="cell cell--12 cell--md-12" style="text-align: left" >
 <b>The Analysis & Design of Management Information System</b>
 </div>
 <div class="cell cell--12 cell--md-9 " style="text-align: left;display: inline-block;"  >
@@ -141,7 +141,7 @@ with Prof. Shuqin Cai, School of Management, HUST
 Mar. 2016 - Sep. 2017
 </div>
 
-<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<div class="cell cell--12 cell--md-12" style="text-align: left" >
 <b>Developing Information System: Methods & Tools (C#)</b>
 </div>
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
@@ -154,7 +154,7 @@ with Assoc. Prof. Shuangyuan Shi, School of Management, HUST
 Sep. 2016 - Jan. 2017
 </div>
 
-<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<div class="cell cell--12 cell--md-12" style="text-align: left" >
 <b>Data Structure (C/C++)</b>
 </div>
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
@@ -167,7 +167,7 @@ with Prof. Qianfan Zhang, School of Management, HUST
 Sep. 2015 - Jan. 2016
 </div>
 
-<div class="cell cell--12 cell--md-auto" style="text-align: left" >
+<div class="cell cell--12 cell--md-12" style="text-align: left" >
 <b>Database Technology & Application (SQL Server)</b>
 </div>
 <div class="cell cell--12 cell--md-9 " style="text-align: left" >
@@ -311,7 +311,7 @@ Lanzhou, China
 <b>1th Place (Nan Quan)</b>
 </div>
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
-Hubei College Wushu Championship
+Hubei College Wushu Competition
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
@@ -324,7 +324,7 @@ Wuhan, China
 <b>3th Place (Nan Quan)</b>
 </div>
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
-Hubei College Wushu Championship
+Hubei College Wushu Competition
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
@@ -349,7 +349,7 @@ Wuhan, China
 <b>6th Place (Nan Quan)</b>
 </div>
 <div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
-Hubei College Wushu Championship
+Hubei College Wushu Competition
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
