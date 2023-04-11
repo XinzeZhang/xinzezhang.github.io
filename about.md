@@ -38,7 +38,7 @@ I am currently a Ph.D. student in the school of Management, [Huazhong University
 
 My research interests lie primarily in machine learning, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), and [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting). Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
-I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://www.zuel.edu.cn/), China, and received my M.P.Ac. degree in 2018 from HUST.
+I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China, and received my M.P.Ac. degree in 2018 from HUST.
 </div>
 </div>
 </div>
@@ -109,7 +109,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
     Xinze Zhang, Yukun Bao, Qi Sima, and Xinran He.
 
     `★ Preprints are coming soon.`
-    
+
 - **Reinforced encoder: towards feature selection of the sequential time series predictor**
 
     Xinze Zhang, Qi Sima, and Yukun Bao
