@@ -108,6 +108,8 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
     
     Xinze Zhang, Yukun Bao, Qi Sima, and Xinran He.
 
+    `★ Preprints are coming soon.`
+    
 - **Reinforced encoder: towards feature selection of the sequential time series predictor**
 
     Xinze Zhang, Qi Sima, and Yukun Bao
@@ -116,7 +118,6 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao. -->
 
-    `★ Preprints are coming soon.`
 
 ## Teaching
 
