@@ -34,7 +34,7 @@ mathjax: true
 </div>
 <div class="cell cell--12 cell--md-auto" style="text-align: justify"   markdown='1'>
 
-I am currently a Ph.D. student in the school of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) China. I am also affiliated with [John Hopcroft Lab](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) in the school of Computer Science and Technology, HUST.
+I am currently a Ph.D. student in the school of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) China. I am also affiliated with [Hopcroft Center on Computing Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) in the school of Computer Science and Technology, HUST.
 
 My research interests lie primarily in machine learning, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), and [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting). Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
@@ -90,23 +90,31 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     Xinze Zhang, Zhenhua Chen, and Kun He.
 
+- **Error-feedback triple-phase optimization to grow ${\*}{\*}{\*}$ for time series forecasting**$$^\star$$
+
+    Xinze Zhang, Kun He, Yukun Bao, and Qi Sima.
+
     `* Within the anonymity period.`
 
-- **Growing stochastic deep neural network for time series forecasting with error-feedback triple-phase optimization**$$^\star$$
+- **Reinforced decoder: towards training sequence-to-sequence model for time series forecasting**$$^\star$$
 
-    Xinze Zhang, Kun He, Qi Sima, and Yukun Bao.
+    Qi Sima, Xinze Zhang, and Yukun Bao.
 
-- **Multi-step-ahead time series prediction with reinforced decoder**$$^\star$$
+- **Exploring the echo state network output architecture for time series forecasting**$$^\star$$
 
-   Yukun Bao, Qi Sima, and Xinze Zhang.
+    Xinze Zhang, Yukun Bao, Shuhan Chen, and Qi Sima.
+    
+- **Feature-state selection and parameter optimization of the echo state network for time series forecasting based on ternary memetic algorithm**$$^\star$$    
+    
+    Xinze Zhang, Yukun Bao, Qi Sima, and Xinran He.
 
-- **Exploring the input output architectures of echo state network for time series forecasting**$$^\star$$
+- **Reinforced encoder: towards feature selection of the sequential time series predictor**
 
-    Xinze Zhang, Xinran He, and Yukun Bao.
+    Xinze Zhang, Qi Sima, and Yukun Bao
 
-- **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
+<!-- - **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
 
-    Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao.
+    Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao. -->
 
     `★ Preprints are coming soon.`
 
