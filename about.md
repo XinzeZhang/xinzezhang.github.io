@@ -34,7 +34,7 @@ mathjax: true
 </div>
 <div class="cell cell--12 cell--md-auto" style="text-align: justify"   markdown='1'>
 
-I am currently a Ph.D. student in the school of Management, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/) China. I am also affiliated with [Hopcroft Center on Computing Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) in the school of Computer Science and Technology, HUST.
+I received my Ph.D. degree in management in [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [Hopcroft Center on Computing Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) in the school of Computer Science and Technology, HUST.
 
 My research interests lie primarily in machine learning, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), and [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting). Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
