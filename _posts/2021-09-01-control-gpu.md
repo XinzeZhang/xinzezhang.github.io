@@ -1,12 +1,11 @@
 ---
-
 title:   Controlling NVIDIA GPU Fans and Clock remotely
 tags:
     -nvidia
     -linux
 ---
-
 ## Acknowledgment
+
 This article is based on the post [*Controlling NVIDIA GPU Fans on a headless Ubuntu system*](http://bailiwick.io/2019/09/21/controlling-nvidia-gpu-fans-on-a-headless-ubuntu-system/) by James Conner.
 
 ### nvidia-xconfig
@@ -20,7 +19,7 @@ $ sudo nvidia-xconfig -a --cool-bits=28
 #### Second: edit the xorg file
 
 ```bash
-$ sudo nvidia-xconfig -a --cool-bits=28
+$ sudo nano /etc/X11/xorg.conf
 ```
 
 Scroll down till you find Section "Screen"
@@ -38,15 +37,21 @@ Section "Screen"
 EndSection
 ```
 
-Add the following under the line of `Option "Coolbits" "28"`
+<!-- Add the following under the line of `Option "Coolbits" "28"` (not necessary)
 
 ```bash
 Option         "RegistryDwords" "PowerMizerEnable=0x1; PerfLevelSrc=0x2222; PowerMizerDefaultAC=0x1"
+``` -->
+Check the `/etc/X11/Xwrapper.config` file, if not existing, then create it by `sudo nano /etc/X11/Xwrapper.config`. 
+Make sure the following contents in the `Xwrapper.config`, if not, add them.
+
+```bash
+needs_root_rights=yes
+allowed_users=console
 ```
 
+
 #### Third: reboot
-
-
 
 ### nvidia-settings
 
