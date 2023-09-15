@@ -198,10 +198,24 @@ exclude:
   - /docs
   - /node_modules
   - /screenshots
-  - /test
+  # - /test
   - /vendor
+  # - /_posts
+  # - /index.html
+
+# collections_dir: docs
+collections:
+  # docs:
+  #   output: true
+  pub_ed:
+    output: true
+  pub_ur:
+    output: true
+  pub_wo:
+    output: true
 
 defaults:
+  ## posts
   - scope:
       path: ""
       type: posts
@@ -214,7 +228,25 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
-
+  ## pubs
+  - scope:
+      path: ""
+      type: pub_ed
+    values:
+      nav_key: pubs
+  - scope:
+      path: ""
+      type: pub_ur
+    values:
+      nav_key: samples
+      show_date: false
+  - scope:
+      path: ""
+      type: pub_wo
+    values:
+      layout: article
+      nav_key: samples
+      show_date: false
 
 ## => Plugins
 ##############################

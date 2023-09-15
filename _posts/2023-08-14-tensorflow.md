@@ -2,11 +2,10 @@
 title: Search tensorflow/pytorch cor. cuda and cudann version
 
 tags:
-
--linux
-
--tex
+    -linux
+    -tex
 ---
+
 ### Tensorflow
 
 See https://www.tensorflow.org/install/source?hl=zh-cn#gpu
@@ -14,7 +13,6 @@ See https://www.tensorflow.org/install/source?hl=zh-cn#gpu
 ### Pytorch
 
 See https://github.com/elenacliu/pytorch_cuda_driver_compatibilities
-
 
 ### Config the cuda and cudnn version in popOS
 
@@ -33,8 +31,7 @@ If the driver does not support the expected cuda version, then update the driver
 sudo proxychains apt-get install system76-driver-nvidia
 ```
 
-We can find the package in https://apt-origin.pop-os.org/proprietary 
-
+We can find the package in https://apt-origin.pop-os.org/proprietary
 
 ```
 sudo proxychains apt install system76-cuda-10.1
@@ -70,5 +67,5 @@ nvcc -V
 You can check the version of cuDNN with this command:
 
 ```
-cat /usr/lib/cuda/include/cudnn_version.h | grep CUDNN_MAJOR -A 2       
+cat /usr/lib/cuda/include/cudnn_version.h | grep CUDNN_MAJOR -A 2     
 ```

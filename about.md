@@ -82,7 +82,7 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
     *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
 
 ## Working Papers
-- **Crafting ${\*}{\*}{\*}$ adversarial examples for neural machine translation**$$^\ast$$
+<!-- - **Crafting ${\*}{\*}{\*}$ adversarial examples for neural machine translation**$$^\ast$$
 
     Xinze Zhang, Zhenhua Chen, and Kun He.
 
@@ -94,25 +94,33 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     Xinze Zhang, Kun He, Yukun Bao, and Qi Sima.
 
-    `* Within the anonymity period.`
+    `* Within the anonymity period.` -->
 
-- **Reinforced decoder: towards training sequence-to-sequence model for time series forecasting**$$^\star$$
+- **SNR-aware adaptive feature selection for neural modulation recognition**$$^\star$$
 
-    Qi Sima, Xinze Zhang, and Yukun Bao.
+    Xinze Zhang, Zhenhua Chen, and Kun He.
 
-- **Exploring the echo state network output architecture for time series forecasting**$$^\star$$
+- **Multi-channel convolutional distilled transformer for automatic modulation recognition**$$^\star$$
 
-    Xinze Zhang, Yukun Bao, Shuhan Chen, and Qi Sima.
+    Zhenhua Chen, Xinze Zhang,  and Kun He.
+
+- **Reinforced decoder: towards training recurrent neural networks for time series forecasting**$$^\star$$
+
+    Qi Sima, Xinze Zhang, Yukun Bao, Siyue Yang, and Liang Shen
+
+    `★ Under review`
+
+- **Openforecasting: an open framework for time series forecasting**
+
+    Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
     
-- **Feature-state selection and parameter optimization of the echo state network for time series forecasting based on ternary memetic algorithm**$$^\star$$    
+- **Error-feedback triple-phase optimization to grow blending convolutional echo state network for time series forecasting**  
     
-    Xinze Zhang, Yukun Bao, Qi Sima, and Xinran He.
+    Xinze Zhang, Yukun Bao, Qi Sima.
 
-    `★ Preprints are coming soon.`
+- **Binary particle swarm bayesian optimization based echo state network for time series forecasting**
 
-- **Reinforced encoder: towards feature selection of the sequential time series predictor**
-
-    Xinze Zhang, Qi Sima, and Yukun Bao
+    Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
 
 <!-- - **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
 

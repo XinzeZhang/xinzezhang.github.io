@@ -2,7 +2,7 @@ header:
 
   - title:      GitHub
     url:        https://github.com/xinzezhang
-    
+  
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -27,6 +27,12 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
+
+  - title:      Publication
+    url:        /pubs.html
+    key:        pubs
+
+
 
   - titles:
       # @start locale config

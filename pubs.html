@@ -1,0 +1,30 @@
+---
+layout: page
+<!-- title: Samples -->
+permalink: /pubs.html
+---
+<div class="layout--articles">
+  <!-- <section class="my-5">
+    <header><h2 id="page-layout">Published</h2></header>
+    {%- include article-list.html articles=site.pub_ed type='brief' -%}
+  </section> -->
+
+  <section class="my-5">
+    <header><h2 id="page-layout">Published</h2></header>
+    {%- include article-list.html articles=site.pub_ed type='item' show_readmore='true' show_excerpt='true' -%}
+  </section>
+
+  <section class="my-5">
+    <header><h2 id="articles-layout">Under Review</h2></header>
+    {%- include article-list.html articles=site.pub_ur type='item' show_excerpt='true' show_readmore='true' -%}
+  </section>
+
+  <!-- <section class="my-5">
+    <header><h2 id="languages">Working On</h2></header>
+    {%- include article-list.html articles=site.pub_wo type='item' show_excerpt='true' show_readmore='true' -%}
+  </section> -->
+  <section class="my-5">
+    <header><h2 id="languages">Working On</h2></header>
+    {%- include article-list.html articles=site.pub_wo type='brief' -%}
+  </section>
+</div>
