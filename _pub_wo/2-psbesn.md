@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Binary particle swarm bayesian optimization based echo state network for time series forecasting'
+title: 'Binary Particle Swarm Bayesian Optimization Based Echo State Network for Time Series Forecasting'
 permalink: /working_on/psbesn.html
 key: ur-psbesn
 ---

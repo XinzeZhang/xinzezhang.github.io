@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Multi-channel convolutional distilled transformer for automatic modulation recognition
+title: Multi-channel Convolutional Distilled Transformer for Automatic Modulation Recognition
 permalink: /under_review/icassp2024b.html
 key: ur-icassp2024b
 ---

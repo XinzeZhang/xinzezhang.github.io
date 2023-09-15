@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'OpenForecasting: an open framework for time series forecasting'
+title: 'OpenForecasting: An Open Framework for Time Series Forecasting'
 permalink: /working_on/openforecasting.html
 key: wo-openforecasting
 ---

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: SNR-aware adaptive feature selection for neural modulation recognition
+title: SNR-aware Adaptive Feature Selection for Neural Modulation Recognition
 permalink: /under_review/icassp2024a.html
 key: ur-icassp2024a
 ---
