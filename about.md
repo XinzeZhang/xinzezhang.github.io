@@ -26,7 +26,6 @@ titles:
 key: page-about
 mathjax: true
 ---
-
 <div class="grid-container">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-3 " markdown='1'>
@@ -39,49 +38,54 @@ I received my Ph.D. degree in management in [Huazhong University of Science and 
 My research interests lie primarily in machine learning, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), and [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting). Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models.
 
 I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China, and received my M.P.Ac. degree in 2018 from HUST.
+
 </div>
 </div>
 </div>
+
+
 
 <h3 style="margin-top: auto;margin-bottom: -10px;">Contact Info</h3>
 <div class="grid grid--px-2" style="margin-top: -10px;margin-bottom: -25px;">
   <div class="cell cell--shrink" style="text-align: left" markdown="1">
 
-  - E-mail: `xinze@hust.edu.cn`, `xinze.zh@outlook.com`
-  </div>
+- E-mail: `xinze@hust.edu.cn`, `xinze.zh@outlook.com`
+
+</div>
   <div class="cell cell--shrink" style="text-align: left" markdown="1">
 
+
   - Wechat: `xinze-zh`
-  </div>
+
 </div>
+</div>
+
 
 ## Publications
 
 - **Crafting adversarial examples for neural machine translation**
 
-    Xinze Zhang, Junzhe Zhang, Zhenhua Chen, and Kun He.
+  Xinze Zhang, Junzhe Zhang, Zhenhua Chen, and Kun He.
 
-    In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021.
-
+  In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021.
 - **Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks**
 
-    Xinze Zhang, Kun He, and Yukun Bao.
+  Xinze Zhang, Kun He, and Yukun Bao.
 
-    *Neurocomputing*, 2021. Volume 459, Pages 234-248.
-
+  *Neurocomputing*, 2021. Volume 459, Pages 234-248.
 - **Short-term load forecasting of central china based on DPSO-LSTM**
 
-    Jianhua Yang, Xinze Zhang, and Yukun Bao.
+  Jianhua Yang, Xinze Zhang, and Yukun Bao.
 
-    In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021.
-
+  In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021.
 - **Expert recognition of online negative word-of-mouth processing based on support vector machine**
 
-    Xinze Zhang, Shuqin Cai, and Siyu Luo.
+  Xinze Zhang, Shuqin Cai, and Siyu Luo.
 
-    *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
+  *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
 
 ## Working Papers
+
 <!-- - **Crafting ${\*}{\*}{\*}$ adversarial examples for neural machine translation**$$^\ast$$
 
     Xinze Zhang, Zhenhua Chen, and Kun He.
@@ -96,36 +100,34 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
     `* Within the anonymity period.` -->
 
-- **SNR-aware adaptive feature selection for neural modulation recognition**$$^\star$$
+- **SNR-aware adaptive feature selection for neural modulation recognition**$^\star$
 
-    Xinze Zhang, Zhenhua Chen, and Kun He.
+  Xinze Zhang, Zhenhua Chen, and Kun He.
 
-- **Multi-channel convolutional distilled transformer for automatic modulation recognition**$$^\star$$
+- **Multi-channel convolutional distilled transformer for automatic modulation recognition**$^\star$
 
-    Zhenhua Chen, Xinze Zhang,  and Kun He.
+  Zhenhua Chen, Xinze Zhang,  and Kun He.
 
-- **Reinforced decoder: towards training recurrent neural networks for time series forecasting**$$^\star$$
+- **Reinforced decoder: towards training recurrent neural networks for time series forecasting**$^\star$
 
-    Qi Sima, Xinze Zhang, Yukun Bao, Siyue Yang, and Liang Shen
+  Qi Sima, Xinze Zhang, Yukun Bao, Siyue Yang, and Liang Shen
 
-    `★ Under review`
+- **Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting**$^\star$
 
-- **Openforecasting: an open framework for time series forecasting**
+  Xinze Zhang, Kun He, Qi Sima, and Yukun Bao
 
-    Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
-    
-- **Error-feedback triple-phase optimization to grow blending convolutional echo state network for time series forecasting**  
-    
-    Xinze Zhang, Yukun Bao, Qi Sima.
+  `★ Under review`
+- **Openforecasting: An open framework for time series forecasting**
+
+  Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
 
 - **Binary particle swarm bayesian optimization based echo state network for time series forecasting**
 
-    Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
+  Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
 
 <!-- - **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
 
     Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao. -->
-
 
 ## Teaching
 
@@ -144,7 +146,6 @@ with Prof. Yukun Bao, School of Management, HUST
 </font>
 </div>
 
-
 <div class="cell cell--12 cell--md-9" style="text-align: left" >
 <b>The Analysis & Design of Management Information System</b>
 </div>
@@ -157,7 +158,6 @@ Teaching Assistant,
 with Prof. Shuqin Cai, School of Management, HUST
 </font>
 </div>
-
 
 <div class="cell cell--12 cell--md-9" style="text-align: left" >
 <b>Developing Information System: Methods & Tools (C#)</b>
@@ -172,7 +172,6 @@ with Assoc. Prof. Shuangyuan Shi, School of Management, HUST
 </font>
 </div>
 
-
 <div class="cell cell--12 cell--md-9" style="text-align: left" >
 <b>Data Structure (C/C++)</b>
 </div>
@@ -185,7 +184,6 @@ Teaching Assistant,
 with Prof. Qianfan Zhang, School of Management, HUST
 </font>
 </div>
-
 
 <div class="cell cell--12 cell--md-9" style="text-align: left" >
 <b>Database Technology & Application (SQL Server)</b>
@@ -202,7 +200,7 @@ with Prof. Qianfan Zhang, School of Management, HUST
 
 </div>
 
-## Honors 
+## Honors
 
 <div class="grid-container">
 <div class="grid grid--px-1">
@@ -271,6 +269,9 @@ Huazhong University of Science & Technology
 Wuhan, China
 </div>
 
+
+
+
 <div class="cell cell--12 cell--md-1 " >
 2016
 </div>
@@ -298,6 +299,8 @@ Lanzhou, China
 </div>
 
 
+
+
 <div class="cell cell--12 cell--md-1 " >
 
 </div>
@@ -310,6 +313,9 @@ National College Wushu Championship
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Lanzhou, China
 </div>
+
+
+
 
 <div class="cell cell--12 cell--md-1 " >
 
@@ -324,6 +330,9 @@ National College Wushu Championship
 Lanzhou, China
 </div>
 
+
+
+
 <div class="cell cell--12 cell--md-1 " >
 
 </div>
@@ -336,6 +345,9 @@ Hubei College Wushu Competition
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
+
+
+
 
 <div class="cell cell--12 cell--md-1 " >
 2015
@@ -387,8 +399,6 @@ Zhongnan University of Economics & Law
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
 Wuhan, China
 </div>
-
-
 
 </div>
 </div>
