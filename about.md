@@ -35,7 +35,8 @@ mathjax: true
 
 I received my Ph.D. degree in management in [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [Hopcroft Center on Computing Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) in the school of Computer Science and Technology, HUST.
 
-My research interests lie primarily in machine learning, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), and [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting). Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models.
+My research interests lie primarily in machine learning for sequential data, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting), and [automatic modulation classification](https://link.springer.com/chapter/10.1007/978-3-319-44188-7_16).
+<!-- Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models. -->
 
 I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China, and received my M.P.Ac. degree in 2018 from HUST.
 
