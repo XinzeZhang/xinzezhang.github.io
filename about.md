@@ -103,28 +103,29 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 
 - **SNR-aware adaptive feature selection for neural modulation recognition**$^\star$
 
-  Xinze Zhang, Zhenhua Chen, and Kun He.
-
-- **Multi-channel convolutional distilled transformer for automatic modulation recognition**$^\star$
-
-  Zhenhua Chen, Xinze Zhang,  and Kun He.
-
-- **Reinforced decoder: towards training recurrent neural networks for time series forecasting**$^\star$
-
-  Qi Sima, Xinze Zhang, Yukun Bao, Siyue Yang, and Liang Shen
+  Xinze Zhang, Zhenhua Cheng, and Kun He.
 
 - **Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting**$^\star$
 
   Xinze Zhang, Kun He, Qi Sima, and Yukun Bao
 
-  `★ Under review`
+- **Enhancing echo state network with particle swarm bayesian optimization enabled echo state selection for time series forecasting**$^\star$
+
+  Xinze Zhang, Qi Sima, Kun He, Yukun Bao, and Shuhan Chen
+
+- **Multi-channel convolutional distilled transformer for automatic modulation recognition**$^\star$
+
+  Zhenhua Chen$^\dagger$, Xinze Zhang$^\dagger$, and Kun He.
+
+- **Reinforced decoder: towards training recurrent neural networks for time series forecasting**$^\star$
+
+  Qi Sima$^\dagger$, Xinze Zhang$^\dagger$, Yukun Bao, Siyue Yang, and Liang Shen
+
+  `★ Under review`, `† Equal contribution`
 - **Openforecasting: An open framework for time series forecasting**
 
-  Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
+  Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao.
 
-- **Binary particle swarm bayesian optimization based echo state network for time series forecasting**
-
-  Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao, and Shuhan Chen
 
 <!-- - **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
 
