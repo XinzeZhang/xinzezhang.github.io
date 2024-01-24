@@ -31,18 +31,18 @@ mathjax: true
 <div class="cell cell--12 cell--md-3 " markdown='1'>
 ![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/profile.png "Image_rounded"){:.rounded}
 </div>
-<div class="cell cell--12 cell--md-auto" style="text-align: justify"   markdown='1'>
+<div class="cell cell--12 cell--md-auto" style="text-align: justify" markdown='1'>
 
-I received my Ph.D. degree in management in [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I am also affiliated with [Hopcroft Center on Computing Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm) in the school of Computer Science and Technology, HUST.
+I am a postdoctoral researcher, affiliated with [Hopcroft Center on Computing Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm),  in the School of Computer Science and Technology, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I received my Ph.D. degree in management in 2023 from HUST, and received my M.P.Ac. degree in 2018 from the same university. I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China.
 
 My research interests lie primarily in machine learning for sequential data, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting), and [automatic modulation classification](https://link.springer.com/chapter/10.1007/978-3-319-44188-7_16).
+
 <!-- Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models. -->
 
-I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China, and received my M.P.Ac. degree in 2018 from HUST.
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
 
 
 
@@ -56,11 +56,15 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
   <div class="cell cell--shrink" style="text-align: left" markdown="1">
 
 
-  - Wechat: `xinze-zh`
+  
+
+
+- Wechat: `xinze-zh`
 
 </div>
 </div>
 
+I
 
 ## Publications
 
@@ -104,19 +108,15 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 - **SNR-aware adaptive feature selection for neural modulation recognition**$^\star$
 
   Xinze Zhang, Zhenhua Cheng, and Kun He.
-
 - **Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting**$^\star$
 
   Xinze Zhang, Kun He, Qi Sima, and Yukun Bao
-
 - **Enhancing echo state network with particle swarm bayesian optimization enabled echo state selection for time series forecasting**$^\star$
 
   Xinze Zhang, Qi Sima, Kun He, Yukun Bao, and Shuhan Chen
-
 - **Multi-channel convolutional distilled transformer for automatic modulation recognition**$^\star$
 
   Zhenhua Chen$^\dagger$, Xinze Zhang$^\dagger$, and Kun He.
-
 - **Reinforced decoder: towards training recurrent neural networks for time series forecasting**$^\star$
 
   Qi Sima$^\dagger$, Xinze Zhang$^\dagger$, Yukun Bao, Siyue Yang, and Liang Shen
@@ -125,7 +125,6 @@ I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and La
 - **Openforecasting: An open framework for time series forecasting**
 
   Xinze Zhang, Qi Sima, Siyue Yang, Yukun Bao.
-
 
 <!-- - **Multi-stage input selection of deep neural networks for time series forecasting**$$^\star$$
 
@@ -271,6 +270,10 @@ Huazhong University of Science & Technology
 Wuhan, China
 </div>
 
+
+
+
+**Theory & Practice Scholarship**
 
 
 
