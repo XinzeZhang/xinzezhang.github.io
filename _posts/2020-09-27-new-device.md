@@ -1,5 +1,4 @@
 ---
-
 title:      Config zsh and tmux on new device
 tags:
     -linux
@@ -7,63 +6,75 @@ tags:
     -tmux
     -cuda
 ---
-
 ### new sudo account
+
 Use the `adduser` command to add a new user to your system.
+
 ```
 sudo adduser username
 ```
+
 Set and confirm the new user’s password at the prompt. And use the `usermod` command to add the user to the sudo group.
+
 ```
 sudo usermod -aG sudo username
 ```
 
-
 ### zsh
+
 install zsh, autojump and git on server
+
 ```
 sudo apt install zsh autojump git
 ```
 
 scp install to the server from local
+
 ```
 scp ~/.oh-my-zsh/tools/install.sh pop:~/
 ```
 
 setup zsh on server
+
 ```
 sh install.sh
 ```
 
 transfer plugins to the server
+
 ```
 scp -P 22 -r ~/.oh-my-zsh/custom/* pop:~/.oh-my-zsh/custom/
 ```
 
 config zsh theme plugin on the server
+
 ```
 rm $ZSH_CUSTOM/themes/spaceship.zsh-theme
 ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
 ```
 
 copy the linux zsh configuration to the server
+
 ```
 scp -P 22 -r ~/.zshrc pop:~/
 ```
+
 ### tmux
 
-
 scp the plugins to the server from the server machine
+
 ```
 scp -r ~/.tmux/ pop:~/
 ```
 
 create the tmux config file
+
 ```
 touch .tmux.conf
 ```
 
 copy and paste
+
 ```
 # Mouse mode
 set -g mouse on
@@ -84,11 +95,31 @@ set -g @plugin 'tmux-plugins/tmux-sensible'
 source-file ${HOME}/.tmux/plugins/tmux-themepack/powerline/double/blue.tmuxtheme
 
 run -b '~/.tmux/plugins/tpm/tpm'
+
+#-------------------------------------------------------#
+#PANE NAVIGATION/MANAGEMENT
+#-------------------------------------------------------#
+# splitting panes
+bind h split-window -h   # Split panes horizontal
+bind v split-window -v   # Split panes vertically
+
+# open new panes in current path
+bind c new-window -c '#{pane_current_path}'
+
+# Use Alt-arrow keys WITHOUT PREFIX KEY to switch panes
+bind -n M-4 select-pane -L
+bind -n M-6 select-pane -R
+bind -n M-Left select-pane -L
+bind -n M-Right select-pane -R
+bind -n M-Up select-pane -U
+bind -n M-Down select-pane -D
+#-------------------------------------------------------#
 ```
 
 ### cuda
 
 #### cuda 10.1
+
 ```
 sudo apt-get install gcc-7 g++-7
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 9
