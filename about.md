@@ -67,6 +67,11 @@ My research interests lie primarily in machine learning for sequential data, esp
 I
 
 ## Publications
+- **Multi-channel convolutional distilled transformer for automatic modulation recognition**
+
+  Zhenhua Chen$^\dagger$, Xinze Zhang$^\dagger$, and Kun He.
+
+  In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024.
 
 - **Crafting adversarial examples for neural machine translation**
 
@@ -88,6 +93,8 @@ I
   Xinze Zhang, Shuqin Cai, and Siyu Luo.
 
   *Statistics and Decision (Chinese Journal)*, 2017. Volume 490, Pages 80-83.
+
+  `† Equal contribution`
 
 ## Working Papers
 
@@ -114,9 +121,7 @@ I
 - **Enhancing echo state network with particle swarm bayesian optimization enabled echo state selection for time series forecasting**$^\star$
 
   Xinze Zhang, Qi Sima, Kun He, Yukun Bao, and Shuhan Chen
-- **Multi-channel convolutional distilled transformer for automatic modulation recognition**$^\star$
 
-  Zhenhua Chen$^\dagger$, Xinze Zhang$^\dagger$, and Kun He.
 - **Reinforced decoder: towards training recurrent neural networks for time series forecasting**$^\star$
 
   Qi Sima$^\dagger$, Xinze Zhang$^\dagger$, Yukun Bao, Siyue Yang, and Liang Shen
