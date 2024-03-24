@@ -64,7 +64,6 @@ My research interests lie primarily in machine learning for sequential data, esp
 </div>
 </div>
 
-I
 
 ## Publications
 - **Multi-channel convolutional distilled transformer for automatic modulation recognition**
@@ -275,10 +274,6 @@ Huazhong University of Science & Technology
 Wuhan, China
 </div>
 
-
-
-
-**Theory & Practice Scholarship**
 
 
 
