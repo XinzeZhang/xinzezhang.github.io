@@ -64,8 +64,12 @@ My research interests lie primarily in machine learning for sequential data, esp
 </div>
 </div>
 
-
 ## Publications
+- **Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting**
+
+  Xinze Zhang, Kun He, Qi Sima, and Yukun Bao.
+
+  *Applied Soft Computing*, 2024. Incoming.
 - **Multi-channel convolutional distilled transformer for automatic modulation recognition**
 
   Zhenhua Chen$^\dagger$, Xinze Zhang$^\dagger$, and Kun He.
@@ -114,9 +118,6 @@ My research interests lie primarily in machine learning for sequential data, esp
 - **SNR-aware adaptive feature selection for neural modulation recognition**$^\star$
 
   Xinze Zhang, Zhenhua Cheng, and Kun He.
-- **Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting**$^\star$
-
-  Xinze Zhang, Kun He, Qi Sima, and Yukun Bao
 - **Enhancing echo state network with particle swarm bayesian optimization enabled echo state selection for time series forecasting**$^\star$
 
   Xinze Zhang, Qi Sima, Kun He, Yukun Bao, and Shuhan Chen
