@@ -3,20 +3,21 @@ layout: page
 <!-- title: Samples -->
 permalink: /pubs.html
 ---
-<div class="layout--articles">
+<div class="page-layout">
   <!-- <section class="my-5">
     <header><h2 id="page-layout">Published</h2></header>
     {%- include article-list.html articles=site.pub_ed type='brief' -%}
   </section> -->
 
   <section class="my-5">
-    <header><h2 id="page-layout">Published</h2></header>
-    {%- include article-list.html articles=site.pub_ed type='item' show_readmore='true' show_excerpt='true' -%}
+    <header><h2>Published </h2></header>
+    <header><h3><font color="#DC3522">As the 1st or Corresp. Author</font></h3>
+    {%- include article-list.html articles=site.pub_ed type='brief' reverse=true-%}
   </section>
 
   <section class="my-5">
-    <header><h2 id="articles-layout">Under Review</h2></header>
-    {%- include article-list.html articles=site.pub_ur type='item' show_excerpt='true' show_readmore='true' -%}
+    <header><h2>Under Review</h2></header>
+    {%- include article-list.html articles=site.pub_ur type='brief' reverse=true -%}
   </section>
 
   <!-- <section class="my-5">
@@ -24,7 +25,7 @@ permalink: /pubs.html
     {%- include article-list.html articles=site.pub_wo type='item' show_excerpt='true' show_readmore='true' -%}
   </section> -->
   <section class="my-5">
-    <header><h2 id="languages">Working On</h2></header>
-    {%- include article-list.html articles=site.pub_wo type='brief' -%}
+    <header><h2 id="layout--archive__result">Working On</h2></header>
+    {%- include article-list.html articles=site.pub_wo type='brief' reverse=true -%}
   </section>
 </div>
