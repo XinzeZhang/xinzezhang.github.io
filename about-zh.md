@@ -36,11 +36,10 @@ mathjax: true
 </div>
 </div>
 
-
 ## 主要已发表或接收论文
 
 - Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting. <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, Kun He, Qi Sima, and Yukun Bao. *Applied Soft Computing*, 2024. Pages 111715. (第一作者，中科院1区期刊，IF 8.7)
-- Multi-channel convolutional distilled transformer for automatic modulation recognition. Zhenhua Chen, <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, and Kun He. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议)
+- Multi-channel convolutional distilled transformer for automatic modulation recognition. Zhenhua Chen$^\dagger$, <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>$^\dagger$, and Kun He. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议)
 - Crafting adversarial examples for neural machine translation. <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, Junzhe Zhang, Zhenhua Chen, and Kun He. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (第一作者，CCF A类会议, Oral)
 - Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks. <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, Kun He, and Yukun Bao. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (第一作者，中科院2区期刊，IF 6.0)
 - Short-term load forecasting of central china based on DPSO-LSTM. Jianhua Yang, <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, and Yukun Bao. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (通讯作者，EI会议)
@@ -71,6 +70,18 @@ mathjax: true
 <!-- - Multi-stage input selection of deep neural networks for time series forecasting$.$
 
     Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao. -->
+
+## 科研项目
+
+- 启元实验室，创新基金项目，“多模态图文大模型的安全公平与可信性评测理论与方法研究”，2024-2025，参与，排名第二
+- 国家自然科学基金，企业联合重点项目，“电磁空间智能识别算法的对抗攻击技术”，2023-2026，参与
+- 国家自然科学基金，专项项目，“面向安全韧性与双碳目标的城市综合能源系统管理基础理论与关键技术研究”，2023-2026，参与
+- 国家自然科学基金，面上项目，“自然语言处理深度模型的对抗攻防关键算法研究”，2021-2024，参与，排名第三
+- 湖北省，国际科技合作项目，“深度学习模型对抗攻防基础理论与算法研究”，2021-2023，参与，排名第四
+- 国家自然科学基金，面上项目，“大数据环境下基于计算智能的预测建模技术及其在电力负荷预测中的应用”，2019-2022，参与，排名第九
+- 国家电网公司，科技项目，“华中区域共享型电力交易与服务平台关键技术研究”，2020-2021，参与
+- 国家电网公司，科技项目，“渝鄂直流运行条件下华中消纳西南水电交易电量库模型建立与效益分析”，2019-2020，参与
+- 国家电网公司，管理咨询项目，“适应可再生能源配额制的跨省区交易机制及策略研究”，2019，参与
 
 ## 教学经历
 
@@ -151,10 +162,10 @@ Sep. 2015 - Jan. 2016
 <div class="cell cell--12 cell--md-1 " >
 2023
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify">
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>优秀论文</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 全国电子战大会 ⋅ 电磁空间安全全国重点实验室三新学术年会
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -164,10 +175,10 @@ Chengdu, China
 <div class="cell cell--12 cell--md-1 " >
 2022
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify">
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>二等奖</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 "中国软件杯" 大学生软件设计大赛
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -177,10 +188,10 @@ Nanjing, China
 <div class="cell cell--12 cell--md-1 " >
 2021
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify">
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>国家奖学金</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 华中科技大学
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -189,10 +200,10 @@ Wuhan, China
 
 <div class="cell cell--12 cell--md-1 " >
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>知行奖学金</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 华中科技大学
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -202,10 +213,10 @@ Wuhan, China
 <div class="cell cell--12 cell--md-1 " >
 2017
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>国家奖学金</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 华中科技大学
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -215,10 +226,10 @@ Wuhan, China
 <div class="cell cell--12 cell--md-1 " >
 
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>知行奖学金</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 华中科技大学
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -231,10 +242,10 @@ Wuhan, China
 <div class="cell cell--12 cell--md-1 " >
 2016
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>优秀研究生 </b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 华中科技大学
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -244,10 +255,10 @@ Wuhan, China
 <div class="cell cell--12 cell--md-1 " >
 
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>优秀运动员 </b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 全国大学生武术锦标赛
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -260,10 +271,10 @@ Lanzhou, China
 <div class="cell cell--12 cell--md-1 " >
 
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>南棍第四</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 全国大学生武术锦标赛
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -276,10 +287,10 @@ Lanzhou, China
 <div class="cell cell--12 cell--md-1 " >
 
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>南拳第六</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 全国大学生武术锦标赛
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -292,10 +303,10 @@ Lanzhou, China
 <div class="cell cell--12 cell--md-1 " >
 
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>南拳第一</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 湖北省大学生武术比赛
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -308,10 +319,10 @@ Wuhan, China
 <div class="cell cell--12 cell--md-1 " >
 2015
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>南拳第三</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 湖北省大学生武术比赛
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -321,10 +332,10 @@ Wuhan, China
 <div class="cell cell--12 cell--md-1 " >
 2014
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>人民奖学金</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 中南财经政法大学
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -333,10 +344,10 @@ Wuhan, China
 
 <div class="cell cell--12 cell--md-1 " >
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>南拳第六</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 湖北省大学生武术比赛
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
@@ -346,10 +357,10 @@ Wuhan, China
 <div class="cell cell--12 cell--md-1 " >
 2013
 </div>
-<div class="cell cell--12 cell--md-4" style="text-align: justify" >
+<div class="cell cell--12 cell--md-2" style="text-align: center">
 <b>人民奖学金</b>
 </div>
-<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+<div class="cell cell--12 cell--md-7" style="text-align: center;color:#5D5D5D" >
 中南财经政法大学
 </div>
 <div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
