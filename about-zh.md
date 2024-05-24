@@ -37,7 +37,7 @@ mathjax: true
 </div>
 
 
-## 已发表或接收论文
+## 主要已发表或接收论文
 
 - Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting. <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, Kun He, Qi Sima, and Yukun Bao. *Applied Soft Computing*, 2024. Pages 111715. (第一作者，中科院1区期刊，IF 8.7)
 - Multi-channel convolutional distilled transformer for automatic modulation recognition. Zhenhua Chen, <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, and Kun He. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议)
@@ -147,6 +147,19 @@ Sep. 2015 - Jan. 2016
 
 <div class="grid-container">
 <div class="grid grid--px-1">
+
+<div class="cell cell--12 cell--md-1 " >
+2023
+</div>
+<div class="cell cell--12 cell--md-4" style="text-align: justify">
+<b>优秀论文</b>
+</div>
+<div class="cell cell--12 cell--md-5" style="text-align: justify;color:#5D5D5D" >
+全国电子战大会 ⋅ 电磁空间安全全国重点实验室三新学术年会
+</div>
+<div class="cell cell--12 cell--md-2" style="text-align: right;color:#DC3522" >
+Chengdu, China
+</div>
 
 <div class="cell cell--12 cell--md-1 " >
 2022
