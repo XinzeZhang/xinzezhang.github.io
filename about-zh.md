@@ -63,7 +63,7 @@ mathjax: true
 
 - SNR-aware adaptive feature selection for neural modulation recognition. <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, Zhenhua Cheng, and Kun He.
 - Enhancing echo state network with particle swarm bayesian optimization enabled echo state selection for time series forecasting. <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>, Qi Sima, Kun He, Yukun Bao, and Shuhan Chen
-- Reinforced decoder: towards training recurrent neural networks for time series forecasting. Qi Sima$^\dagger$, <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>$^\dagger$, Yukun Bao, Siyue Yang, and Liang Shen
+- Reinforced decoder: towards training recurrent neural networks for time series forecasting. Qi Sima$^\dagger$, <font color="#5D5D5D"><strong>Xinze Zhang</strong></font>$^\dagger$, Yukun Bao, Siyue Yang, and Liang Shen. arXiv, 2406.09643.
 
 `† Equal contribution`
 
