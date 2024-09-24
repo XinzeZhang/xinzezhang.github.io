@@ -39,7 +39,7 @@ mathjax: true
 ## 主要已发表或接收论文
 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting. *Applied Soft Computing*, 2024. Pages 111715. (第一作者，中科院1区期刊，IF 8.7)
-- Zhenhua Chen$^\dagger$, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>$^\dagger$, and Kun He. Multi-channel convolutional distilled transformer for automatic modulation recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议)
+- Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-channel convolutional distilled transformer for automatic modulation recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Junzhe Zhang, Zhenhua Chen, and Kun He.  Crafting adversarial examples for neural machine translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (第一作者，CCF A类会议, Oral)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (第一作者，中科院2区期刊，IF 6.0)
 - Jianhua Yang, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Yukun Bao. Short-term load forecasting of central china based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (通讯作者，EI会议)
@@ -61,7 +61,7 @@ mathjax: true
 
     `* Within the anonymity period.` -->
 
-- Qi Sima$^\dagger$, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>$^\dagger$, Yukun Bao, Siyue Yang, and Liang Shen. Reinforced decoder: towards training recurrent neural networks for time series forecasting. arXiv, 2406.09643.
+- Qi Sima†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, Yukun Bao, Siyue Yang, and Liang Shen. Reinforced decoder: towards training recurrent neural networks for time series forecasting. arXiv, 2406.09643.
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Jipeng Cheng, Zhenghua Chen, and Kun He. SNR-boosted adaptive augmentation for neural modulation recognition. 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Qi Sima, Kun He, Yukun Bao, and Shuhan Chen. Enhancing echo state network with particle swarm bayesian optimization enabled echo state selection for time series forecasting. 
 
