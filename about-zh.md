@@ -80,13 +80,13 @@ mathjax: true
 <div class="grid grid--px-1">
 
 <div class="cell cell--12 cell--md-9" style="text-align: left" >
-<b>强化学习(编号: 210131040, 32学时)</b>
+<b>强化学习（编号: 210131040, 32学时）</b>
 </div>
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Sep. 2024 - Jan. 2025
 </div>
 <div class="cell cell--12 cell--md-12 " style="text-align: left" >
-教师(8学时), 何琨教授(24学时),
+教师（8学时），何琨教授（24学时）,
 <font color="#5D5D5D">计算机科学与技术学院, 华中科技大学
 </font>
 </div>
@@ -159,6 +159,7 @@ Sep. 2015 - Jan. 2016
 </div>
 
 </div>
+
 
 ## 所获荣誉
 
