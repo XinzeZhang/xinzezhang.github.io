@@ -49,7 +49,7 @@ mathjax: true
 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Dengao Zhu, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Jipeng Cheng, Zhenghua Chen, and Kun He. SNR-Boosted Adaptive Augmentation for Neural Modulation Recognition. 
-- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Qi Sima, Kun He, Yukun Bao, and Shuhan Chen. Enhancing Echo State Network with Particle Swarm Bayesian Optimization Enabled Echo State Selection for Time Series Forecasting. SSRN, 4684592.
+- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Qi Sima, Kun He, Yukun Bao, and Xin Lai. Enhancing Echo State Network with Particle Swarm Bayesian Optimization Enabled Echo State Selection for Time Series Forecasting.
 - Haobo Lu, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Enhancing Adversarial Transferability on SAR-ATR through Object Invariant Speckle Augmentation.
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. arXiv, 2409.06726.
 - Qi Sima†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, Yukun Bao, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. arXiv, 2406.09643.
