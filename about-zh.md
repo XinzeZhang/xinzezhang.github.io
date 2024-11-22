@@ -51,6 +51,7 @@ mathjax: true
 - Haobo Lu, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Enhancing Adversarial Transferability on SAR-ATR through Object Invariant Speckle Augmentation.
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. arXiv, 2409.06726.
 - Qi Sima†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, Yukun Bao, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. arXiv, 2406.09643.
+- Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting.
 - Zhenhua Chen, Xin Liu, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Boosting Transfer-based Attacks from Surrogate Models and Inputs.
 - Ganglin Xie, Haobo Lu, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression.
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Jipeng Cheng, Zhenghua Chen, and Kun He. SNR-Boosted Adaptive Augmentation for Neural Modulation Recognition. 
