@@ -38,16 +38,18 @@ mathjax: true
 
 ## 主要已发表或接收论文
 
+
+- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Dengao Zhu, Xiyao Dong, and Kun He. Fading-invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (第一作者，CCF B类会议)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-feedback three-phase optimization to configurable convolutional echo state network for time series forecasting. *Applied Soft Computing*, 2024. Pages 111715. (第一作者，中科院1区期刊，IF 8.7)
-- Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-channel convolutional distilled transformer for automatic modulation recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Junzhe Zhang, Zhenhua Chen, and Kun He.  Crafting adversarial examples for neural machine translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (第一作者，CCF A类会议， Oral)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-feedback stochastic modeling strategy for time series forecasting with convolutional neural networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (第一作者，中科院2区期刊，IF 6.0)
 - Jianhua Yang, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Yukun Bao. Short-term load forecasting of central china based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (通讯作者，EI会议)
 - <strong><font color="#5D5D5D">张心泽</font></strong>, 蔡淑琴, 罗思雨. 基于支持向量机的在线负面口碑处理专家识别方法. 统计与决策, 2017. Volume 490, Pages 80-83. (第一作者，CSSCI期刊，北大核心)
+- Ganglin Xie, Haobo Lu, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
+- Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-channel convolutional distilled transformer for automatic modulation recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议)
 
 ## 在审论文
 
-- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Dengao Zhu, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Jipeng Cheng, Zhenghua Chen, and Kun He. SNR-Boosted Adaptive Augmentation for Neural Modulation Recognition. 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Qi Sima, Kun He, Yukun Bao, and Xin Lai. Enhancing Echo State Network with Particle Swarm Bayesian Optimization Enabled Echo State Selection for Time Series Forecasting.
 - Haobo Lu, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Enhancing Adversarial Transferability on SAR-ATR through Object Invariant Speckle Augmentation.
