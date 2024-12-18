@@ -39,7 +39,7 @@ mathjax: true
 ## 主要已发表或接收论文
 
 
-- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Dengao Zhu, Xiyao Dong, and Kun He. Fading-invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (第一作者，CCF B类会议)
+- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Dengao Zhu, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (第一作者，CCF B类会议)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Pages 111715. (第一作者，中科院1区期刊，IF 8.7)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Junzhe Zhang, Zhenhua Chen, and Kun He.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (第一作者，CCF A类会议， Oral)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (第一作者，中科院2区期刊，IF 6.0)
