@@ -53,13 +53,12 @@ mathjax: true
 ## 在审论文
 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Jipeng Cheng, Shuo Zhang, Zhenghua Chen, and Kun He. SNR-Boosted Adaptive Augmentation for Neural Modulation Recognition. 
-- Qi Sima, Yukun Bao, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Particle Swarm Bayesian Optimization Enabled Echo State Selection for Time Series Forecasting.
+- Qi Sima, Yukun Bao, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Echo State Selection for Time Series Forecasting.
 - Kun He, Zhenhua Chen, Xin Liu, and <strong><font color="#5D5D5D">Xinze Zhang</font></strong>📩. Boosting Transfer-based Attacks from Surrogate Models and Inputs.
-- Haobo Lu, Linhua Cong, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Enhancing Adversarial Transferability on SAR-ATR through Object Invariant Speckle Augmentation.
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. arXiv, 2409.06726.
 - Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Yukun Bao, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. arXiv, 2406.09643.
 - Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting.
-- Ganglin Xie, Haobo Lu, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression.
+- Haobo Lu, Linhua Cong, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Enhancing Adversarial Transferability on SAR-ATR through Object Invariant Speckle Augmentation.
 
 
 <!-- - Multi-stage input selection of deep neural networks for time series forecasting$.$
@@ -67,7 +66,7 @@ mathjax: true
     Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao. -->
 
 ## 科研项目
-- 中国博士后科学基金，面上项目，“基于对抗学习的分布式光伏发电功率可信预测方法研究(2024M761027)”，2025-2026，5万，主持
+- 中国博士后科学基金，面上项目，“基于对抗学习的分布式光伏发电功率可信预测方法研究(2024M761027)”，2025-2026，5万，主持（资助率13.9%）
 - 湖北省区域科技创新计划，国际科技合作项目，“大模型自动评测关键技术研究(2024EHA032)”，2024-2026，30万，参与，排名第二
 - 启元实验室，创新基金项目，“多模态图文大模型的安全公平与可信性评测理论与方法研究(2022-JCJQ-LA-001-069)”，2024-2025，100万，参与，排名第二
 - 国家自然科学基金，企业联合重点项目，“电磁空间智能识别算法的对抗攻击技术(U22B2017)”，2023-2026，253万，参与
