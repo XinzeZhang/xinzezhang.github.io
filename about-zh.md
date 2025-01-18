@@ -41,14 +41,14 @@ mathjax: true
 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, Junzhe Zhang†, Zhenhua Chen†, and Kun He†.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (共同一作，CCF A类会议， Oral)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作，CCF B类会议)
-- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Pages 111715. (唯一一作，中科院1区期刊，IF 8.7)
-- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (唯一一作，中科院2区期刊，IF 6.0)
+- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Pages 111715. (唯一一作，中科院1区期刊，JCR Q1, IF 8.7)
+- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (唯一一作，中科院2区期刊，JCR Q1, IF 6.0)
 - Jianhua Yang, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>📩, and Yukun Bao. Short-Term Load Forecasting of Central China Based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (唯一通讯，EI会议)
 - <strong><font color="#5D5D5D">张心泽</font></strong>, 蔡淑琴, 罗思雨. 基于支持向量机的在线负面口碑处理专家识别方法. 统计与决策, 2017. Volume 490, Pages 80-83. (唯一一作，CSSCI期刊，北大核心)
-- Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
 - Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-Channel Convolutional Distilled Transformer for Automatic Modulation Recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议，Poster)
+- Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
 
-`† Equal contribution`, `📩 Corresponding Author`
+`† Equal contribution`, `📩 Corresponding Author`, `中科院与JCR分区为论文接收当年等级`
 
 ## 在审论文
 
