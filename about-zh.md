@@ -13,7 +13,7 @@ mathjax: true
 
 1993年12月生，中共党员。于2023年6月毕业于华中科技大学管理学院管理科学与工程专业，并获管理学博士学位。同年7月作为研究助理，加入华中科技大学霍普克罗夫特计算科学研究中心、计算机科学与技术学院人工智能与优化研究所。2024年2月进入华中科技大学计算机科学与技术博士后流动站，从事计算机软件与理论专业工作至今。
 
-研究方向为深度学习、序列数据分析、自然语言处理和时间序列预测。参与国家自然科学基金企业联合重点项目、重点专项项目、多项面上项目，以及多项国家电网科技项目和管理咨询项目。在CCF A类顶级会议ACL和人工智能领域JCR 1区SCI期刊Applied Soft Computing、Neurocomputing等国内外会议期刊发表论文十余篇。
+研究方向为深度学习、序列数据分析、自然语言处理和时间序列预测。参与国家自然科学基金企业联合重点项目、重点专项项目、多项面上项目，以及多项国家电网科技项目和管理咨询项目。在CCF A/B类顶级会议ACL、ICASSP和人工智能领域JCR 1区SCI期刊Applied Soft Computing、Neurocomputing等国内外会议期刊发表论文十余篇。
 
 <!-- Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models. -->
 
@@ -41,8 +41,8 @@ mathjax: true
 
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, Junzhe Zhang†, Zhenhua Chen†, and Kun He†.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (共同一作，CCF A类会议， Oral)
 - <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作，CCF B类会议)
-- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Pages 111715. (唯一一作，中科院1区期刊，JCR Q1，IF 8.7)
-- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (唯一一作，中科院2区期刊，JCR Q1，IF 6.0)
+- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Pages 111715. (唯一一作，JCR Q1，中科院1区期刊，IF 8.7)
+- <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (唯一一作，JCR Q1，中科院2区期刊，IF 6.0)
 - Jianhua Yang, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>📩, and Yukun Bao. Short-Term Load Forecasting of Central China Based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (唯一通讯，EI会议)
 - <strong><font color="#5D5D5D">张心泽</font></strong>, 蔡淑琴, 罗思雨. 基于支持向量机的在线负面口碑处理专家识别方法. 统计与决策, 2017. Volume 490, Pages 80-83. (唯一一作，CSSCI期刊，北大核心)
 - Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-Channel Convolutional Distilled Transformer for Automatic Modulation Recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议，Poster)
@@ -66,19 +66,24 @@ mathjax: true
     Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao. -->
 
 ## 科研项目
-- 中国博士后科学基金，面上项目，“基于对抗学习的分布式光伏发电功率可信预测方法研究(2024M761027)”，2025-2026，5万，主持（资助率13.9%）
-- 湖北省区域科技创新计划，国际科技合作项目，“大模型自动评测关键技术研究(2024EHA032)”，2024-2026，30万，参与，排名第二
-- 启元实验室，创新基金项目，“多模态图文大模型的安全公平与可信性评测理论与方法研究(2022-JCJQ-LA-001-069)”，2024-2025，100万，参与，排名第二
-- 国家自然科学基金，企业联合重点项目，“电磁空间智能识别算法的对抗攻击技术(U22B2017)”，2023-2026，253万，参与
-- 国家自然科学基金，专项项目，“面向安全韧性与双碳目标的城市综合能源系统管理基础理论与关键技术研究(72242104)”，2023-2026，200万，参与
-- 国家自然科学基金，面上项目，“自然语言处理深度模型的对抗攻防关键算法研究(62076105)”，2021-2024，59万，参与，排名第三
-- 国家自然科学基金，面上项目，“大数据环境下基于计算智能的预测建模技术及其在电力负荷预测中的应用(71871101)”，2019-2022，49万，参与，排名第九
-- JW科技委，XX预研重点实验室基金项目，“XX领域智能XXXXXX技术的适应性研究”，2022-2024，30万，参与，排名第八
-- 湖北省区域科技创新计划，国际科技合作项目，“深度学习模型对抗攻防基础理论与算法研究(2021EHB011)”，2021-2023，30万，参与，排名第四
-- 中国电建集团-智信能源科技有限公司，技术开发项目，“巨鹿腾煌风电站、府谷华耀光伏电站功率预测算法开发与集成项目(HTGL-ZGS-ZXNYKJYXGS-H-2024-0589)”，2024-2026，29万，参与，排名第三
-- 国家电网公司，技术服务项目，“关于健全多层级融合发展的全国统一电力市场体系暨华中区域低碳转型市场运营关键问题研究(GHZX2022-3)”，2022，60万，参与，排名第八
-- 国家电网公司，科技项目，“华中区域共享型电力交易与服务平台关键技术研究(52140019000U)”，2020-2021，86.8万，参与，排名第十
-- 国家电网公司，科技项目，“渝鄂直流运行条件下华中消纳西南水电交易电量库模型建立与效益分析(SGTYHT/18-JS-206)”，2019-2020，89.8万，参与，排名第十
+
+### 纵向项目
+- 中国博士后科学基金，面上项目，“基于对抗学习的分布式光伏发电功率可信预测方法研究(2024M761027)”，2025.01-2026.12，5万，主持（资助率13.9%）
+- 湖北省自然科学基金，青年项目，“物理信息驱动的信号调制智能识别对抗攻防技术研究(JCZRQN202500280)”，2025.03-2027.02，10万，主持
+- 湖北省区域科技创新计划，国际科技合作项目，“大模型自动评测关键技术研究(2024EHA032)”，2024.09-2026.09，30万，参与，排名第二
+- 启元实验室，创新基金项目，“多模态图文大模型的安全公平与可信性评测理论与方法研究(2022-JCJQ-LA-001-069)”，2024.01-2025.12，100万，参与，排名第二
+- 国家自然科学基金，企业联合重点项目，“电磁空间智能识别算法的对抗攻击技术(U22B2017)”，2023.01-2026.12，253万，参与
+- 国家自然科学基金，专项项目，“面向安全韧性与双碳目标的城市综合能源系统管理基础理论与关键技术研究(72242104)”，2023.01-2026.12，200万，参与
+- 国家自然科学基金，面上项目，“自然语言处理深度模型的对抗攻防关键算法研究(62076105)”，2021.01-2024.12，59万，参与，排名第三
+- 国家自然科学基金，面上项目，“大数据环境下基于计算智能的预测建模技术及其在电力负荷预测中的应用(71871101)”，2019.01-2022.12，49万，参与，排名第九
+- JW科技委，XX预研重点实验室基金项目，“XX领域智能XXXXXX技术的适应性研究”，2022.07-2024.06，30万，参与，排名第八
+- 湖北省区域科技创新计划，国际科技合作项目，“深度学习模型对抗攻防基础理论与算法研究(2021EHB011)”，2021.09-2023.09，30万，参与，排名第四
+
+### 横向项目
+- 中国电建集团-智信能源科技有限公司，技术开发项目，“巨鹿腾煌风电站、府谷华耀光伏电站功率预测算法开发与集成项目(HTGL-ZGS-ZXNYKJYXGS-H-2024-0589)”，2024.11-2026.03，29万，参与，排名第三
+- 国家电网公司，技术服务项目，“关于健全多层级融合发展的全国统一电力市场体系暨华中区域低碳转型市场运营关键问题研究(GHZX2022-3)”，2022.05-2022.12，60万，参与，排名第八
+- 国家电网公司，科技项目，“华中区域共享型电力交易与服务平台关键技术研究(52140019000U)”，2020.07-2021.11，86.8万，参与，排名第十
+- 国家电网公司，科技项目，“渝鄂直流运行条件下华中消纳西南水电交易电量库模型建立与效益分析(SGTYHT/18-JS-206)”，2019.05-2020.11，89.8万，参与，排名第十
 
 ## 教学经历
 
