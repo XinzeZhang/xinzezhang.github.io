@@ -7,7 +7,7 @@ mathjax: true
 <div class="grid-container">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-3 " markdown='1'>
-![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/profile.png "Image_rounded"){:.rounded}
+![Image](https://raw.githubusercontent.com/XinzeZhang/xinzezhang.github.io/master/images/github.jpg "Image_rounded"){:.rounded}
 </div>
 <div class="cell cell--12 cell--md-auto" style="text-align: justify" markdown='1'>
 
