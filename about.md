@@ -33,9 +33,11 @@ mathjax: true
 </div>
 <div class="cell cell--12 cell--md-auto" style="text-align: justify" markdown='1'>
 
-I am a postdoctoral researcher, affiliated with [Hopcroft Center on Computing Science](http://mathcenter.hust.edu.cn/Research_Groups/John_Hopcroft_Lab_for_Data_Science.htm),  in the School of Computer Science and Technology, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), China. I received my Ph.D. degree in management in 2023 from HUST, and received my M.P.Ac. degree in 2018 from the same university. I received my B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China.
-
-My research interests lie primarily in machine learning for sequential data, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [neural machine translation](https://en.wikipedia.org/wiki/Neural_machine_translation), [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting), and [automatic modulation classification](https://link.springer.com/chapter/10.1007/978-3-319-44188-7_16).
+Xinze Zhang is currently a postdoctoral researcher in the School of Computer Science and Technology, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, P.R. China.
+He received his Ph.D. in management from  Huazhong University of Science and Technology, Wuhan, China, in 2023, and received the M.P.Ac. degree in 2018 from the same university.
+He received the B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China.
+He is the Principal Investigator of the projects supported by the China Postdoctoral Science Foundation and the Natural Science Foundation of Hubei Province, China.
+His interests lie primarily in machine learning for sequential data, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting), and [automatic modulation classification](https://link.springer.com/chapter/10.1007/978-3-319-44188-7_16).
 
 <!-- Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models. -->
 
