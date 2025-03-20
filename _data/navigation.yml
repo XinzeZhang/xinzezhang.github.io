@@ -39,3 +39,33 @@ header:
 
   - title:       关于
     url: /about-zh.html
+
+
+docs-en:
+  - title: 简介
+    children:
+      - title:  个人经历
+        url: /about-zh.html#张心泽
+      - title: 联系方式
+        url: /about-zh.html#联系方式
+
+  - title: 论文
+    children:
+      - title:  已发表/录用
+        url: /about-zh.html#主要已发表或接收论文
+      - title: 已在审/工作
+        url: /about-zh.html#在审论文
+
+  - title: 项目
+    children:
+      - title:  纵向项目
+        url: /about-zh.html#纵向项目
+      - title: 横向项目
+        url: /about-zh.html#在审论文
+
+  - title: 其他
+    children:
+      - title:  教学
+        url: /about-zh.html#教学经历
+      - title: 荣誉
+        url: /about-zh.html#所获荣誉      
