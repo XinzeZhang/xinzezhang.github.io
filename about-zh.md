@@ -4,12 +4,7 @@ key: page-about
 mathjax: true
 sidebar:
   nav: docs-en
-header-includes: 
-    \newcommand{\xinzer}{<strong><font color="#DC3522">Xinze Zhang</font></strong>}
 ---
-
-<!-- $$\def\xinzer{<strong><font color="#DC3522">Xinze Zhang</font></strong>}$$
-\def\xinze{<strong><font color="#5D5D5D">Xinze Zhang</font></strong>} -->
 
 ## 张心泽
 
@@ -48,14 +43,13 @@ header-includes:
 ## 主要已发表或接收论文
 
 
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Junzhe Zhang†, Zhenhua Chen†, and Kun He†.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (共同一作, CCF A类会议, Oral)
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作, CCF B类会议)
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Pages 111715. (唯一一作, JCR Q1, 中科院1区, IF 7.2)
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (唯一一作, JCR Q1, 中科院2区, IF 5.7)
-- Jianhua Yang, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Yukun Bao. Short-Term Load Forecasting of Central China Based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (唯一通讯, EI会议)
-- <strong><font color="#DC3522">张心泽</font></strong>, 蔡淑琴, 罗思雨. 基于支持向量机的在线负面口碑处理专家识别方法. 统计与决策, 2017. Volume 490, Pages 80-83. (唯一一作, CSSCI)
-- Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-Channel Convolutional Distilled Transformer for Automatic Modulation Recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作, CCF C类会议)
-- Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting. *Energy Conversion and Management*, 2025, Early Access. (JCR Q1,  中科院1区, IF 9.9)
+- <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Junzhe Zhang†, Zhenhua Chen†, and Kun He†.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (共同一作，CCF A类会议， Oral)
+- <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作，CCF B类会议)
+- <strong><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Pages 111715. (唯一一作，JCR Q1，中科院1区期刊，IF 7.2)
+- <strong><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (唯一一作，JCR Q1，中科院2区期刊，IF 5.7)
+- Jianhua Yang, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Yukun Bao. Short-Term Load Forecasting of Central China Based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (唯一通讯，EI会议)
+- <strong><font color="#DC3522">张心泽</font></strong>, 蔡淑琴, 罗思雨. 基于支持向量机的在线负面口碑处理专家识别方法. 统计与决策, 2017. Volume 490, Pages 80-83. (唯一一作，CSSCI期刊，北大核心)
+- Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-Channel Convolutional Distilled Transformer for Automatic Modulation Recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作，CCF C类会议，Poster)
 - Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
 
 `† Equal contribution`, `📩 Corresponding Author`, `中科院与JCR分区及IF为论文接收当年等级`
@@ -67,7 +61,7 @@ header-includes:
 - Kun He, Zhenhua Chen, Xin Liu, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Dual Generalization Attack: Enhancing Adversarial Transferability through Surrogate Model and Input Feature Generalization.
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. arXiv, 2409.06726.
 - Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Yukun Bao, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. arXiv, 2406.09643.
-
+- Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting.
 - Haobo Lu, Linhua Cong, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Enhancing Adversarial Transferability on SAR-ATR through Object Invariant Speckle Augmentation.
 
 
@@ -79,14 +73,14 @@ header-includes:
 
 ### 纵向项目
 - 中国博士后科学基金，面上项目，“基于对抗学习的分布式光伏发电功率可信预测方法研究(2024M761027)”，2025.01-2026.12，5万，<font color="#DC3522"><b>主持</b></font>（资助率13.9%）
-- 湖北省自然科学基金，青年项目，“物理信息驱动的信号调制智能识别对抗攻防技术研究(JCZRQN202500280，拟立项待批准)”，2025.03-2027.02，10万，<font color="#DC3522"><b>主持</b></font>
+- 湖北省自然科学基金，青年项目，“物理信息驱动的信号调制智能识别对抗攻防技术研究(2025AFB110)”，2025.03-2027.02，10万，<font color="#DC3522"><b>主持</b></font>
 - 湖北省区域科技创新计划，国际科技合作项目，“大模型自动评测关键技术研究(2024EHA032)”，2024.09-2026.09，30万，参与，排名第二
 - 启元实验室，创新基金项目，“多模态图文大模型的安全公平与可信性评测理论与方法研究(2022-JCJQ-LA-001-069)”，2024.01-2025.12，100万，参与，排名第二
 - 国家自然科学基金，企业联合重点项目，“电磁空间智能识别算法的对抗攻击技术(U22B2017)”，2023.01-2026.12，253万，参与
 - 国家自然科学基金，专项项目，“面向安全韧性与双碳目标的城市综合能源系统管理基础理论与关键技术研究(72242104)”，2023.01-2026.12，200万，参与
 - 国家自然科学基金，面上项目，“自然语言处理深度模型的对抗攻防关键算法研究(62076105)”，2021.01-2024.12，59万，参与，排名第三
 - 国家自然科学基金，面上项目，“大数据环境下基于计算智能的预测建模技术及其在电力负荷预测中的应用(71871101)”，2019.01-2022.12，49万，参与，排名第九
-<!-- - JW科技委，XX预研重点实验室基金项目，“XX领域智能XXXXXX技术的适应性研究”，2022.07-2024.06，30万，参与，排名第八 -->
+- JW科技委，XX预研重点实验室基金项目，“XX领域智能XXXXXX技术的适应性研究”，2022.07-2024.06，30万，参与，排名第八
 - 湖北省区域科技创新计划，国际科技合作项目，“深度学习模型对抗攻防基础理论与算法研究(2021EHB011)”，2021.09-2023.09，30万，参与，排名第四
 
 ### 横向项目
