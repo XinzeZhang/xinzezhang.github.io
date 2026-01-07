@@ -59,7 +59,7 @@ sidebar:
 
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>, Jipeng Cheng, Shuo Zhang, Zhenhua Chen, and Kun He. Adaptive Correcting Augmentation for Robust Automatic Modulation Classification Under Varying SNR Condition. 
 - Kun He, Zhenhua Chen, Xin Liu, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Dual Generalization Attack: Enhancing Adversarial Transferability through Surrogate Model and Input Feature Generalization.
-- Qi Sima, Yukun Bao, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. 
+- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. 
 - Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization.
 - Shenghao Qiao, Shiming Deng, Ruixian Su, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Xin Lai. LLM-Informed Adversarial Attacks on Multimodal Stock Movement Prediction Models.
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. arXiv, 2409.06726.
