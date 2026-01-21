@@ -57,8 +57,8 @@ sidebar:
 
 ## 在审论文
 
-- Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. [arXiv, 2601.03683](https://arxiv.org/abs/2601.03683).
-- Shenghao Qiao, Shiming Deng, Ruixian Su, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Xin Lai. LLM-Informed Adversarial Attacks on Multimodal Stock Movement Prediction Models.
+<!-- - Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. [arXiv, 2601.03683](https://arxiv.org/abs/2601.03683). -->
+<!-- - Shenghao Qiao, Shiming Deng, Ruixian Su, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Xin Lai. LLM-Informed Adversarial Attacks on Multimodal Stock Movement Prediction Models. -->
 - Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. 
 - Kun He, Zhenhua Chen, Xin Liu, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Dual Generalization Attack: Enhancing Adversarial Transferability through Surrogate Model and Input Feature Generalization.
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>, Jipeng Cheng, Shuo Zhang, Zhenhua Chen, and Kun He. Adaptive Correcting Augmentation for Robust Automatic Modulation Classification Under Varying SNR Condition. 
