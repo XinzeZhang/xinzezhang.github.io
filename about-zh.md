@@ -17,7 +17,7 @@ sidebar:
 
 华中科技大学计算机科学与技术学院博士后。2015年获中南财经政法大学会计学专业管理学学士学位，2018年、2023年于华中科技大学管理学院会计硕士专业与管理科学与工程专业分获会计硕士专业学位与管理学博士学位。2023年7月作为研究助理，加入华中科技大学霍普克罗夫特计算科学研究中心。2024年2月进入华中科技大学计算机科学与技术博士后流动站，于计算机科学与技术学院人工智能与优化研究所，从事计算机软件与理论专业工作至今。
 
-研究方向为深度学习、序列数据分析、自然语言处理和时间序列预测。主持中国博士后基金面上项目与湖北省自然科学基金青年项目，参与国家自然科学基金企业联合重点项目、重点专项项目、多项面上项目，以及多项国家电网科技项目和管理咨询项目。在CCF A/B类顶级会议ACL、ICASSP和人工智能领域JCR 1区SCI期刊Applied Soft Computing、Neurocomputing等国内外会议期刊发表论文十余篇。
+研究方向为深度学习、序列数据分析、自然语言处理和时间序列预测。主持中国博士后基金面上项目与湖北省自然科学基金青年项目，参与国家自然科学基金企业联合重点项目、重点专项项目、多项面上项目，以及多项国家电网科技项目和管理咨询项目。在CCF A/B类顶级会议ACL、ICASSP和JCR 1区SCI期刊TII、ASOC、ECM、NEUROCOMPUTING等国内外会议期刊发表论文十余篇。
 <!-- Most recently, I focus on the adversarial attack for neural machine translation, randomness in deep neural network (DNN), and DNN based time series forecasting models. -->
 </div>
 </div>
@@ -42,6 +42,7 @@ sidebar:
 
 ## 主要已发表或接收论文
 
+- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. *IEEE Transactions on Industrial Informatics*, 2026. Early Access. (唯一通讯, JCR Q1, 中科院1区Top, IF 9.9)
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Junzhe Zhang†, Zhenhua Chen†, and Kun He†.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (共同一作, CCF A类会议, Oral)
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作, CCF B类会议)
 - Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Echo State Selection for Time Series Forecasting. *Neurocomputing*, 2025. Volume 654, Pages 131283. (唯一通讯, JCR Q1, 中科院2区, IF 6.5)
@@ -59,7 +60,7 @@ sidebar:
 
 <!-- - Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. [arXiv, 2601.03683](https://arxiv.org/abs/2601.03683). -->
 <!-- - Shenghao Qiao, Shiming Deng, Ruixian Su, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Xin Lai. LLM-Informed Adversarial Attacks on Multimodal Stock Movement Prediction Models. -->
-- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. 
+<!-- - Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting.  -->
 - Kun He, Zhenhua Chen, Xin Liu, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Dual Generalization Attack: Enhancing Adversarial Transferability through Surrogate Model and Input Feature Generalization.
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>, Jipeng Cheng, Shuo Zhang, Zhenhua Chen, and Kun He. Adaptive Correcting Augmentation for Robust Automatic Modulation Classification Under Varying SNR Condition. 
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. [arXiv, 2409.06726](https://arxiv.org/abs/2409.06726).
