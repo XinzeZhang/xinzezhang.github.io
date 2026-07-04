@@ -42,7 +42,7 @@ sidebar:
 
 ## 主要已发表或接收论文
 
-<div class="grid grid--px-2" style="margin-top: -10px;margin-bottom: -25px;">
+<div class="grid grid--px-2" style="margin-top: -10px;margin-bottom: -10px;">
   <div class="cell cell--shrink" style="text-align: left" markdown="1">
 
 `📩 Corresponding Author`, `† Equal contribution`, `中科院与JCR分区及IF为论文接收当年等级`
