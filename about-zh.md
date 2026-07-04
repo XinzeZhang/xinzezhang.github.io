@@ -42,6 +42,8 @@ sidebar:
 
 ## 主要已发表或接收论文
 
+`† Equal contribution`, `📩 Corresponding Author`, `中科院与JCR分区及IF为论文接收当年等级`
+
 - Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. *Advanced Engineering Informatics*, 2026. Early Access. (唯一通讯, JCR Q1, 中科院1区Top, IF 11.5)
 - Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. *IEEE Transactions on Industrial Informatics*, 2026. Early Access. (唯一通讯, JCR Q1, 中科院1区Top, IF 9.9)
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作, CCF B类会议)
@@ -55,8 +57,6 @@ sidebar:
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026. Early Access.  (JCR Q1,  中科院2区, IF 6.5)
 - Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting. *Energy Conversion and Management*, 2025. Volume 333, Pages 119773. (JCR Q1,  中科院1区, IF 9.9)
 - Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
-
-`† Equal contribution`, `📩 Corresponding Author`, `中科院与JCR分区及IF为论文接收当年等级`
 
 ## 在审论文
 
