@@ -80,7 +80,7 @@ His interests lie primarily in machine learning for sequential data, especially 
 Mar. 2025 - Jun. 2025
 </div>
 <div class="cell cell--12 cell--md-12 " style="text-align: left" >
-Lecturer
+Lecturer, 
 <font color="#5D5D5D">
 School of Computer Science & Technology, HUST
 </font>
@@ -93,7 +93,7 @@ School of Computer Science & Technology, HUST
 Sep. 2024 - Jan. 2025
 </div>
 <div class="cell cell--12 cell--md-12 " style="text-align: left" >
-Lecturer
+Lecturer, 
 <font color="#5D5D5D">with Prof. Kun He, School of Computer Science & Technology, HUST
 </font>
 </div>
