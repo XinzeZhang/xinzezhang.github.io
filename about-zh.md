@@ -43,15 +43,18 @@ sidebar:
 ## 主要已发表或接收论文
 
 <div class="grid grid--px-2" style="margin-top: -10px;margin-bottom: -10px;">
-  <div class="cell cell--shrink" style="text-align: left" markdown="1">
-
-`📩 Corresponding Author`, `† Equal contribution`, `中科院与JCR分区及IF为论文接收当年等级`
-
-</div>
+<div class="cell cell--shrink" style="text-align: left" markdown="1">
+`📩 Corresponding Author`, `† Equal contribution`
 </div>
 
-- Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. *Advanced Engineering Informatics*, 2026. Early Access. (唯一通讯, JCR Q1, 中科院1区Top, IF 11.5)
-- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. *IEEE Transactions on Industrial Informatics*, 2026. Early Access. (唯一通讯, JCR Q1, 中科院1区Top, IF 9.9)
+<div class="cell cell--shrink" style="text-align: left" markdown="1">
+`中科院与JCR分区及IF为论文接收当年等级`
+</div>
+
+</div>
+
+- Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. *Advanced Engineering Informatics*, 2026. Volume 76, Part C, Pages 105047. (唯一通讯, JCR Q1, 中科院1区Top, IF 11.5)
+- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. *IEEE Transactions on Industrial Informatics*, 2026. Volume 22, Issue 6, Pages 5345-5356. (唯一通讯, JCR Q1, 中科院1区Top, IF 9.9)
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作, CCF B类会议)
 - Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Echo State Selection for Time Series Forecasting. *Neurocomputing*, 2025. Volume 654, Pages 131283. (唯一通讯, JCR Q1, 中科院2区, IF 6.5)
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Volume 161, Pages 111715. (唯一一作, JCR Q1, 中科院1区Top, IF 7.2)
