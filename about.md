@@ -2,8 +2,6 @@
 layout: article
 key: page-about
 mathjax: true
-sidebar:
-  nav: docs-en
 ---
 <div class="grid-container">
 <div class="grid grid--p-2">
