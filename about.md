@@ -71,6 +71,7 @@ His interests lie primarily in machine learning for sequential data, especially 
 
 ## Teaching
 
+<div class="grid-container">
 <div class="grid grid--px-1">
 
 <div class="cell cell--12 cell--md-9" style="text-align: left" >
@@ -168,6 +169,8 @@ with Prof. Qianfan Zhang, School of Management, HUST
 </div>
 
 </div>
+</div>
+
 
 ## Honors
 
