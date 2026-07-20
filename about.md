@@ -98,12 +98,8 @@ Lecturer,
 </font>
 </div>
 
-
-
-<div class="grid grid--px-1">
-
 <div class="cell cell--12 cell--md-9" style="text-align: left" >
-<b>Business Intelligence & Data Mining</b>
+<b>Business Intelligence & Data Mining </b>
 </div>
 <div class="cell cell--12 cell--md-3 "  style="text-align: right;color:#DC3522">
 Mar. 2019 - Jun. 2020
