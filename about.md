@@ -3,6 +3,7 @@ layout: article
 key: page-about
 mathjax: true
 ---
+
 <div class="grid-container">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-3 " markdown='1'>
