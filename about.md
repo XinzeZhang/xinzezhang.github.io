@@ -13,7 +13,7 @@ mathjax: true
 
 Xinze Zhang is currently a postdoctoral researcher in the School of Computer Science and Technology, [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), Wuhan, P.R. China.
 He received his Ph.D. in management from  Huazhong University of Science and Technology, Wuhan, China, in 2023, and received the M.P.Ac. degree in 2018 from the same university.
-He received the B.Ac. degree in 2015 from [Zhongnan University of Economics and Law (ZUEL)](http://english.zuel.edu.cn//), China.
+He received the B.Ac. degree in 2015 from Zhongnan University of Economics and Law (ZUEL), China.
 He is the Principal Investigator of the grants supported by the China Postdoctoral Science Foundation and the Natural Science Foundation of Hubei Province, China.
 His interests lie primarily in machine learning for sequential data, especially in [adversarial machine learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning), [time series forecasting](https://en.wikipedia.org/wiki/Time_series#Prediction_and_forecasting), and [automatic modulation classification](https://link.springer.com/chapter/10.1007/978-3-319-44188-7_16).
 
