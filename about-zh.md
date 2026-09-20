@@ -70,18 +70,9 @@ sidebar:
 - Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
 
 
-<!-- ## 在审论文
+## Arxiv
 
-<!-- - Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. [arXiv, 2601.03683](https://arxiv.org/abs/2601.03683). -->
-<!-- - Shenghao Qiao, Shiming Deng, Ruixian Su, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Xin Lai. LLM-Informed Adversarial Attacks on Multimodal Stock Movement Prediction Models. -->
-- Kun He, Zhenhua Chen, Xin Liu, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Dual Generalization Attack: Enhancing Adversarial Transferability through Surrogate Model and Input Feature Generalization.
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>, Jipeng Cheng, Shuo Zhang, Zhenhua Chen, and Kun He. Adaptive Correcting Augmentation for Robust Automatic Modulation Classification Under Varying SNR Condition. 
-- Haobo Lu, Linhua Cong, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Enhancing Adversarial Transferability on SAR-ATR through Object Invariant Speckle Augmentation. -->
-
-
-<!-- - Multi-stage input selection of deep neural networks for time series forecasting$.$
-
-    Xinze Zhang, Siyue Yang, Qi Sima, and Yukun Bao. -->
+- Ruixian Su, Yukun Bao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Temporally Unified Adversarial Perturbations for Time Series Forecasting. [	arXiv:2602.11940](https://arxiv.org/abs/2602.11940).
 
 ## 科研项目
 

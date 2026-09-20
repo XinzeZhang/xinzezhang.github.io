@@ -53,8 +53,8 @@ docs-en:
     children:
       - title:  已发表/录用
         url: /about-zh.html#主要已发表或接收论文
-      - title: 已在审/工作
-        url: /about-zh.html#在审论文
+      - title: Arxiv
+        url: /about-zh.html#arxiv
 
   - title: 项目
     children:
