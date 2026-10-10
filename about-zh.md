@@ -81,7 +81,7 @@ sidebar:
 <div class="cell cell--12 cell--md-auto" markdown="1">
 
 - <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作, CCF B类会议)
-- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Echo State Selection for Time Series Forecasting. *Neurocomputing*, 2025. Volume 654, Pages 131283. (唯一通讯, JCR Q1, 中科院2区, IF 6.5)
+- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Reservoir State Selection for Time Series Forecasting. *Neurocomputing*, 2025. Volume 654, Pages 131283. (唯一通讯, JCR Q1, 中科院2区, IF 6.5)
 - Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting. *Energy Conversion and Management*, 2025. Volume 333, Pages 119773. (JCR Q1,  中科院1区, IF 9.9)
 - Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
 
