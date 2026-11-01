@@ -66,7 +66,7 @@ sidebar:
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 
-- Mingyu Xu, Shiming Deng, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. ViDSum-TSF: Long-Document-Driven Multimodal Time Series Forecasting in Edge Intelligence via Visual-Grounded Document Summarization. *Journal of Systems Architecture*, 2026. Accepted for publication. (唯一通讯, JCR Q1, IF 5.3)
+- Mingyu Xu, Shiming Deng, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. ViDSum-TSF: Long-Document-Driven Multimodal Time Series Forecasting in Edge Intelligence via Visual-Grounded Document Summarization. *Journal of Systems Architecture*, 2026. Volume 181, Page 104063. (唯一通讯, JCR Q1, IF 5.3)
 - Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. *Advanced Engineering Informatics*, 2026. Volume 76, Part C, Pages 105047. (唯一通讯, JCR Q1, 中科院1区Top, IF 11.5)
 - Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. *IEEE Transactions on Industrial Informatics*, 2026. Volume 22, Issue 6, Pages 5345-5356. (唯一通讯, JCR Q1, 中科院1区Top, IF 9.9)
 - Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026. Early Access.  (JCR Q1,  中科院2区, IF 6.5)
