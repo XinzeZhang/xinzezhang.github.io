@@ -9,7 +9,7 @@ The original one-line form still works:
   python3 tools/add_paper.py 2027 corresponding 'A. Researcher and Xinze Zhang. Paper title. *Journal Name*, 2027. Accepted.'
 
 The citation is Markdown. Write your name as plain text once; this tool adds
-its existing red/gray styling and, for a corresponding author, the 📩 symbol.
+the appropriate author role and, for a corresponding author, the 📩 symbol.
 """
 
 import argparse
@@ -74,8 +74,11 @@ def add_paper(source: str, year: int, role: str, citation: str, name: str) -> st
         raise ValueError(f'The citation must contain {name!r} exactly once')
     if '<font' in citation or '<strong' in citation:
         raise ValueError('Supply the author name as plain text; styling is automatic')
-    color = '#DC3522' if role in ('first', 'corresponding') else '#5D5D5D'
-    styled_name = f'<strong><font color="{color}">{name}</font></strong>'
+    color = '#DC3522' if role == 'corresponding' else '#5D5D5D'
+    role_attribute = {'first': ' data-first-author="true"',
+                      'corresponding': ' data-corresponding-author="true"',
+                      'coauthor': ''}[role]
+    styled_name = f'<strong{role_attribute}><font color="{color}">{name}</font></strong>'
     if role == 'corresponding' and not citation.split(name, 1)[1].startswith('📩'):
         styled_name += '📩'
     paper = '- ' + citation.replace(name, styled_name, 1)
@@ -126,7 +129,7 @@ def main() -> None:
                         help='Publication or acceptance year')
     parser.add_argument('role', choices=('first', 'corresponding', 'coauthor'),
                         nargs='?', default='coauthor',
-                        help='Your role; first and corresponding get a red author name and bullet')
+                        help='Your role; first is blue, corresponding is red, and coauthor is black')
     parser.add_argument('citation', nargs='?', default=None,
                         help='One complete Markdown citation; prompts if omitted')
     parser.add_argument('--name', default='Xinze Zhang', help='Your name as it appears in this citation')

@@ -56,7 +56,17 @@ sidebar:
 
 <style>
 .publication-years .cell > ul { margin-top: 0; }
-.publication-years li:has(font[color="#DC3522"])::marker { color: #DC3522; }
+.publication-years li::marker { color: #000; }
+.publication-years li:has(strong[data-first-author])::marker { color: #0066cc; }
+.publication-years li:has(strong[data-corresponding-author])::marker { color: #DC3522; }
+.publication-years li strong > font { color: #000; }
+.publication-years li strong[data-first-author] > font { color: #0066cc; }
+.publication-years li strong[data-corresponding-author] > font { color: #DC3522; }
+.publication-years a.publication-doi,
+.publication-years a.publication-doi:visited,
+.publication-years a.publication-doi:hover,
+.publication-years a.publication-doi:focus,
+.publication-years a.publication-doi:active { color: inherit; font-weight: normal; }
 </style>
 
 <div class="publication-years">
@@ -66,10 +76,11 @@ sidebar:
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 
-- Mingyu Xu, Shiming Deng, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. ViDSum-TSF: Long-Document-Driven Multimodal Time Series Forecasting in Edge Intelligence via Visual-Grounded Document Summarization. *Journal of Systems Architecture*, 2026. Volume 181, Page 104063. (唯一通讯, JCR Q1, IF 5.3)
-- Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. *Advanced Engineering Informatics*, 2026. Volume 76, Part C, Pages 105047. (唯一通讯, JCR Q1, 中科院1区Top, IF 11.5)
-- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. *IEEE Transactions on Industrial Informatics*, 2026. Volume 22, Issue 6, Pages 5345-5356. (唯一通讯, JCR Q1, 中科院1区Top, IF 9.9)
-- Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026. Early Access.  (JCR Q1,  中科院2区, IF 6.5)
+- Kun He, Zhenhua Chen, Xin Liu, and <strong data-corresponding-author="true"><font color="#DC3522">Xinze Zhang</font></strong>📩. Dual Generalization Attack: Enhancing Adversarial Transferability through Surrogate Model and Input Feature Generalization. *IEEE Transactions on Emerging Topics in Computational Intelligence*, 2026. Accepted. (唯一通讯, JCR Q1, IF 6.0)
+- Mingyu Xu, Shiming Deng, Shenghao Qiao, and <strong data-corresponding-author="true"><font color="#DC3522">Xinze Zhang</font></strong>📩. ViDSum-TSF: Long-Document-Driven Multimodal Time Series Forecasting in Edge Intelligence via Visual-Grounded Document Summarization. *Journal of Systems Architecture*, Volume 181, Page 104063, 2026-10-24. [DOI: 10.1016/j.sysarc.2026.104063](https://doi.org/10.1016/j.sysarc.2026.104063){:.publication-doi}. (唯一通讯, JCR Q1, IF 5.3)
+- Xin Lai, Shiming Deng, Lu Yu, Yumin Lai, Shenghao Qiao, and <strong data-corresponding-author="true"><font color="#DC3522">Xinze Zhang</font></strong>📩. Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization. *Advanced Engineering Informatics*, Volume 76, Part C, Pages 105047, 2026-07-15. [DOI: 10.1016/j.aei.2026.105047](https://doi.org/10.1016/j.aei.2026.105047){:.publication-doi}. (唯一通讯, JCR Q1, 中科院1区Top, IF 11.5)
+- Qi Sima, Yukun Bao, <strong data-corresponding-author="true"><font color="#DC3522">Xinze Zhang</font></strong>📩, Siyue Yang, and Liang Shen. Reinforced Decoder: Towards Training Recurrent Neural Networks for Time Series Forecasting. *IEEE Transactions on Industrial Informatics*, Volume 22, Issue 6, Pages 5345-5356, 2026-02-20. [DOI: 10.1109/TII.2026.3662462](https://doi.org/10.1109/TII.2026.3662462){:.publication-doi}. (唯一通讯, JCR Q1, 中科院1区Top, IF 9.9)
+- Renhua Ding, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Xiao Yang, and Kun He, Feedback-based Modal Mutual Search for Attacking Vision-Language Pre-training Models. *IEEE Transactions on Emerging Topics in Computational Intelligence*, Volume 10, Issue 4, Pages 3121-3134, 2026-05-01. [DOI: 10.1109/TETCI.2026.3683659](https://doi.org/10.1109/TETCI.2026.3683659){:.publication-doi}. (JCR Q1, IF 6.0)
 
 </div>
 </div>
@@ -80,10 +91,10 @@ sidebar:
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (共同一作, CCF B类会议)
-- Qi Sima, Yukun Bao, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Reservoir State Selection for Time Series Forecasting. *Neurocomputing*, 2025. Volume 654, Pages 131283. (唯一通讯, JCR Q1, 中科院2区, IF 6.5)
-- Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting. *Energy Conversion and Management*, 2025. Volume 333, Pages 119773. (JCR Q1,  中科院1区, IF 9.9)
-- Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. 2025. (CCF B类会议)
+- <strong data-first-author="true"><font color="#DC3522">Xinze Zhang</font></strong>†, Dengao Zhu†, Xiyao Dong, and Kun He. Fading-Invariant Adversarial Attacks on Neural Modulation Recognition. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025-03-07. [DOI: 10.1109/ICASSP49660.2025.10890846](https://doi.org/10.1109/ICASSP49660.2025.10890846){:.publication-doi}. (共同一作, CCF B类会议)
+- Qi Sima, Yukun Bao, <strong data-corresponding-author="true"><font color="#DC3522">Xinze Zhang</font></strong>📩,  Kun He,  and Xin Lai. Enhancing Echo State Network with Reservoir State Selection for Time Series Forecasting. *Neurocomputing*, Volume 654, Pages 131283, 2025-08-18. [DOI: 10.1016/j.neucom.2025.131283](https://doi.org/10.1016/j.neucom.2025.131283){:.publication-doi}. (唯一通讯, JCR Q1, IF 6.5)
+- Qi Sima, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, Siyue Yang, Yukun Bao, and Liang Shen. Multi-scale Fused Graph Convolutional Network for Multi-site Photovoltaic Power Forecasting. *Energy Conversion and Management*, 2025. Volume 333, Pages 119773. [DOI: 10.1016/j.enconman.2025.119773](https://doi.org/10.1016/j.enconman.2025.119773){:.publication-doi}. (JCR Q1,  中科院1区, IF 9.9)
+- Ganglin Xie†, Haobo Lu†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>, and Kun He. Advancing SAR Image Robustness: Integrating Diffusion Models for Adversarial Purification and Speckle Noise Suppression. In *Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2025-03-07. [DOI: 10.1109/ICASSP49660.2025.10888393](https://doi.org/10.1109/ICASSP49660.2025.10888393){:.publication-doi}. (CCF B类会议)
 
 </div>
 </div>
@@ -94,8 +105,8 @@ sidebar:
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, 2024. Volume 161, Pages 111715. (唯一一作, JCR Q1, 中科院1区Top, IF 7.2)
-- Zhenhua Chen†, <strong><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-Channel Convolutional Distilled Transformer for Automatic Modulation Recognition. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*. 2024. (共同一作, CCF C类会议)
+- <strong data-first-author="true"><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, Qi Sima, and Yukun Bao. Error-Feedback Three-Phase Optimization to Configurable Convolutional Echo State Network for Time Series Forecasting. *Applied Soft Computing*, Volume 161, Pages 111715, 2024-05-09. [DOI: 10.1016/j.asoc.2024.111715](https://doi.org/10.1016/j.asoc.2024.111715){:.publication-doi}. (唯一一作, JCR Q1, 中科院1区Top, IF 7.2)
+- Zhenhua Chen†, <strong data-first-author="true"><font color="#5D5D5D">Xinze Zhang</font></strong>†, and Kun He. Multi-Channel Convolutional Distilled Transformer for Automatic Modulation Classification. In *Proceedings of the International Joint Conference on Neural Networks (IJCNN)*, 2024-09-09. [DOI: 10.1109/IJCNN60899.2024.10650112](https://doi.org/10.1109/IJCNN60899.2024.10650112){:.publication-doi}. (共同一作, CCF C类会议)
 
 </div>
 </div>
@@ -106,9 +117,9 @@ sidebar:
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>†, Junzhe Zhang†, Zhenhua Chen†, and Kun He†.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*. 2021. (共同一作, CCF A类会议, Oral)
-- <strong><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, 2021. Volume 459, Pages 234-248. (唯一一作, JCR Q1, 中科院2区, IF 5.7)
-- Jianhua Yang, <strong><font color="#DC3522">Xinze Zhang</font></strong>📩, and Yukun Bao. Short-Term Load Forecasting of Central China Based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021. (唯一通讯, EI会议)
+- <strong data-first-author="true"><font color="#DC3522">Xinze Zhang</font></strong>†, Junzhe Zhang†, Zhenhua Chen†, and Kun He†.  Crafting Adversarial Examples for Neural Machine Translation. In *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2021-08-01. [DOI: 10.18653/v1/2021.acl-long.153](https://doi.org/10.18653/v1/2021.acl-long.153){:.publication-doi}. (共同一作, CCF A类会议, Oral)
+- <strong data-first-author="true"><font color="#DC3522">Xinze Zhang</font></strong>, Kun He, and Yukun Bao. Error-Feedback Stochastic Modeling Strategy for Time Series Forecasting with Convolutional Neural Networks. *Neurocomputing*, Volume 459, Pages 234-248, 2021-10-12. [DOI: 10.1016/j.neucom.2021.06.051](https://doi.org/10.1016/j.neucom.2021.06.051){:.publication-doi}. (唯一一作, JCR Q1, IF 5.7)
+- Jianhua Yang, <strong data-corresponding-author="true"><font color="#DC3522">Xinze Zhang</font></strong>📩, and Yukun Bao. Short-Term Load Forecasting of Central China Based on DPSO-LSTM. In *Proceedings of IEEE 4th International Electrical and Energy Conference (CIEEC)*, 2021-08-17. [DOI: 10.1109/CIEEC50170.2021.9510278](https://doi.org/10.1109/CIEEC50170.2021.9510278){:.publication-doi}. (唯一通讯, EI会议)
 
 </div>
 </div>
@@ -119,7 +130,7 @@ sidebar:
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 
-- <strong><font color="#DC3522">张心泽</font></strong>, 蔡淑琴, 罗思雨. 基于支持向量机的在线负面口碑处理专家识别方法. 统计与决策, 2017. Volume 490, Pages 80-83. (唯一一作, CSSCI)
+- <strong data-first-author="true"><font color="#DC3522">张心泽</font></strong>, 蔡淑琴, 罗思雨. 基于支持向量机的在线负面口碑处理专家识别方法. 统计与决策, 2017. Volume 490, Pages 80-83. (唯一一作, CSSCI)
 
 </div>
 </div>

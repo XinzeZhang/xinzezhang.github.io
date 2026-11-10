@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://xinzezhang.github.io # the base hostname & protocol for your site
 baseurl : #
 title   : Xinze Zhang
 description: > # this means to ignore newlines until "Language & timezone"
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: XinzeZhang/xinzezhang.github.io
 repository_tree: master
 
 
@@ -184,24 +184,15 @@ highlighter : rouge
 permalink   : date
 
 exclude:
-  - CHANGELOG.md
-  - HOW_TO_RELEASE.md
+  - AGENTS.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README-*.md
   - README.md
-  - gulpfile.js
   - jekyll-text-theme.gemspec
-  - package-lock.json
-  - package.json
-  - /docs
+  - /tools
   - /node_modules
-  - /screenshots
-  # - /test
   - /vendor
-  # - /_posts
-  # - /index.html
 
 # collections_dir: docs
 collections:
